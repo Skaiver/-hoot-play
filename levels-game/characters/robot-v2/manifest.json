@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "rigRevision": "r1",
+  "exports": [
+    {
+      "item": "base",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/base-lod0.glb",
+      "sha256": "3b81da695838894b8bf87b2adbae25031200dd20b236cf9463112703542919c3",
+      "bytes": 437676,
+      "source": "assets-source/characters/robot-v2/robot-v2.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "base",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/base-lod1.glb",
+      "sha256": "dac30480a948b5a324b23471385182b54eb956b70976aa1312ae47b562b8b4c8",
+      "bytes": 277204,
+      "source": "assets-source/characters/robot-v2/robot-v2.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "base",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/base-lod2.glb",
+      "sha256": "ae759b499cd35193949dfde6d8aba0a2fea6824ad41f62da6a540928788536b6",
+      "bytes": 156856,
+      "source": "assets-source/characters/robot-v2/robot-v2.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "base",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/base-lod3.glb",
+      "sha256": "e3d4171e8eec755b3a6494b33b20c453878c7e8525783ecebb79ae8f98a2b3db",
+      "bytes": 87224,
+      "source": "assets-source/characters/robot-v2/robot-v2.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-tee",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-tee-lod0.glb",
+      "sha256": "e18ba6f19c13fc6112b7c14b709b64bab92285609dd6b51c12938b34e224d7de",
+      "bytes": 789156,
+      "source": "assets-source/characters/robot-v2/garments/classic-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-tee",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-tee-lod1.glb",
+      "sha256": "cfc5e5b787b4d59e5d3b9478fb0831feb2ef004652af70a5c32432cd74ed9a9d",
+      "bytes": 588960,
+      "source": "assets-source/characters/robot-v2/garments/classic-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-tee",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-tee-lod2.glb",
+      "sha256": "d929da2a96156816d2edfc91a7a15046d7301c598cbdbe7c0d8f742b36ccf8f4",
+      "bytes": 465044,
+      "source": "assets-source/characters/robot-v2/garments/classic-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-tee",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-tee-lod3.glb",
+      "sha256": "e183b5f63bb0d45c7f516e9c8f17aaf75bd5a8a9ceb3a0b0ea03354016a4aba8",
+      "bytes": 399820,
+      "source": "assets-source/characters/robot-v2/garments/classic-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hawaiian",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/hawaiian-lod0.glb",
+      "sha256": "932f35f9cb67e623e40f722a30dd4c8417402a061c5c19bbd906634ca2c124fe",
+      "bytes": 2814520,
+      "source": "assets-source/characters/robot-v2/garments/hawaiian.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hawaiian",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/hawaiian-lod1.glb",
+      "sha256": "252ecb490fdb5580b79ed3f29e7c47784f3615a96068d863bc1725ad034c385e",
+      "bytes": 2587192,
+      "source": "assets-source/characters/robot-v2/garments/hawaiian.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hawaiian",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/hawaiian-lod2.glb",
+      "sha256": "b3eaedfac69afe958dd6a070029422ae8cbe0042d3ab7020e7b3d21f2ae4396e",
+      "bytes": 2452156,
+      "source": "assets-source/characters/robot-v2/garments/hawaiian.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hawaiian",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/hawaiian-lod3.glb",
+      "sha256": "941f75bc4c2b70173d3903af2621a326f4fc62e462327ae6b6de5b6f03efe9cc",
+      "bytes": 2379572,
+      "source": "assets-source/characters/robot-v2/garments/hawaiian.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hoodie",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/hoodie-lod0.glb",
+      "sha256": "c496e048d1b38e80045957adf188d2b6ae384fd6a4db61b97fa348e2995fdc78",
+      "bytes": 1153488,
+      "source": "assets-source/characters/robot-v2/garments/hoodie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hoodie",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/hoodie-lod1.glb",
+      "sha256": "4e3a6a962c1167694014af532fda604eea64a8cce02089d3467a9da138ae844d",
+      "bytes": 694236,
+      "source": "assets-source/characters/robot-v2/garments/hoodie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hoodie",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/hoodie-lod2.glb",
+      "sha256": "0f6407c08d6ebd999b9b15811f88d83b42a309920243eba62e86e71c0515a062",
+      "bytes": 518016,
+      "source": "assets-source/characters/robot-v2/garments/hoodie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "hoodie",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/hoodie-lod3.glb",
+      "sha256": "26d7b4ad6c6240ebd3d5ddd12787766ca9a13edcdca9cd9830d354e6c431043a",
+      "bytes": 424260,
+      "source": "assets-source/characters/robot-v2/garments/hoodie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "utility-jacket",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/utility-jacket-lod0.glb",
+      "sha256": "eef31f23ec36d241bbe756de890bcc9dad66d040cbd22775be0e7ec6c89dc8a8",
+      "bytes": 1405320,
+      "source": "assets-source/characters/robot-v2/garments/utility-jacket.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "utility-jacket",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/utility-jacket-lod1.glb",
+      "sha256": "232b53ff76a6d7a4788ca8202d05b78c06dfacf9126652f0ed012a08bbe5bb06",
+      "bytes": 911504,
+      "source": "assets-source/characters/robot-v2/garments/utility-jacket.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "utility-jacket",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/utility-jacket-lod2.glb",
+      "sha256": "a7e40f526bc57b41b2efa5b3588f11c982babdd72afb4a9b2522053fa9b210c5",
+      "bytes": 712388,
+      "source": "assets-source/characters/robot-v2/garments/utility-jacket.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "utility-jacket",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/utility-jacket-lod3.glb",
+      "sha256": "e4284cacd7af9df77038a83e0deee2b1e586b28001ec9499fff687581895a7de",
+      "bytes": 604976,
+      "source": "assets-source/characters/robot-v2/garments/utility-jacket.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "overshirt",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/overshirt-lod0.glb",
+      "sha256": "0e314633f7502a5f0dce10ec6c43d2d3c8496950e80d4df9ed4334e0dc2ea53c",
+      "bytes": 1351000,
+      "source": "assets-source/characters/robot-v2/garments/overshirt.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "overshirt",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/overshirt-lod1.glb",
+      "sha256": "a91dd1552cd0c7e6955ff55e1be0502097fc35f8d411d608dc42111e8ff309e9",
+      "bytes": 872768,
+      "source": "assets-source/characters/robot-v2/garments/overshirt.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "overshirt",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/overshirt-lod2.glb",
+      "sha256": "2e97a9023773803a4d1615961efa8f381cd50ecac5a4e4afe26dcd7e2a80fe5f",
+      "bytes": 687348,
+      "source": "assets-source/characters/robot-v2/garments/overshirt.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "overshirt",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/overshirt-lod3.glb",
+      "sha256": "0d36322e7768b286c5fc667139af2fd1a4a4519e86df9ae02be8f5999cf3997b",
+      "bytes": 590216,
+      "source": "assets-source/characters/robot-v2/garments/overshirt.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sport-tee",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/sport-tee-lod0.glb",
+      "sha256": "aeb11cb3c3e83704c286d166aa14fa86ea561f804b408e1d1dc2659bc3ae4be3",
+      "bytes": 789148,
+      "source": "assets-source/characters/robot-v2/garments/sport-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sport-tee",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/sport-tee-lod1.glb",
+      "sha256": "3bdc861f41f45af7a96ef8175565135681e6e226fadab91024f1b12afeb203e8",
+      "bytes": 588952,
+      "source": "assets-source/characters/robot-v2/garments/sport-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sport-tee",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/sport-tee-lod2.glb",
+      "sha256": "40f41d8cf580f8700202d67c174293414efd8a7ae36686b00d7cf8e424851277",
+      "bytes": 465036,
+      "source": "assets-source/characters/robot-v2/garments/sport-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sport-tee",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/sport-tee-lod3.glb",
+      "sha256": "3105ac503e5a66d356daf6a56988882d3e1abb92381c9125ac9d2a4d406137ba",
+      "bytes": 399816,
+      "source": "assets-source/characters/robot-v2/garments/sport-tee.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-trousers",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-trousers-lod0.glb",
+      "sha256": "8a6112460bd987f9aa781489ef0f1dbf03749e2414f0244bd044054cccfa5444",
+      "bytes": 756476,
+      "source": "assets-source/characters/robot-v2/garments/classic-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-trousers",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-trousers-lod1.glb",
+      "sha256": "daa89db6765bc9644cdd62de01e20f87ce24ae6c5b201420fde45e7afd9581b3",
+      "bytes": 614732,
+      "source": "assets-source/characters/robot-v2/garments/classic-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-trousers",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-trousers-lod2.glb",
+      "sha256": "d3de9d5cefa14e06ac42dd088ff7989c43d2d72c5500466295905d7644c72c02",
+      "bytes": 518796,
+      "source": "assets-source/characters/robot-v2/garments/classic-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "classic-trousers",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/classic-trousers-lod3.glb",
+      "sha256": "bee6649d2636b7d0357d6f9abae07329d12d56708fa2b4818c818e36d02c8c6c",
+      "bytes": 460128,
+      "source": "assets-source/characters/robot-v2/garments/classic-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-trousers",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-trousers-lod0.glb",
+      "sha256": "3c8207960cf3ea0161f2e237fce6f261e191d6f432bdcf258271a366d8b45833",
+      "bytes": 780456,
+      "source": "assets-source/characters/robot-v2/garments/cargo-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-trousers",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-trousers-lod1.glb",
+      "sha256": "d78bda9324e0cdfdd0aa105a6ba9252bb6466804f4eea409b1e1b40e2b483b14",
+      "bytes": 625768,
+      "source": "assets-source/characters/robot-v2/garments/cargo-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-trousers",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-trousers-lod2.glb",
+      "sha256": "7a25569ffd61b8e8a3442eba151c06f4315c543be1c8e18be2bfc600de7c4cde",
+      "bytes": 518348,
+      "source": "assets-source/characters/robot-v2/garments/cargo-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-trousers",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-trousers-lod3.glb",
+      "sha256": "af22ba00816d445b62b96876b0b0254bd63e0c033cd17e298157b08c102bd8a9",
+      "bytes": 455108,
+      "source": "assets-source/characters/robot-v2/garments/cargo-trousers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-shorts",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-shorts-lod0.glb",
+      "sha256": "354d2f3d3b2de7a3d898dd329595c16b01488672d98f640fc1a94ee0b27927f4",
+      "bytes": 757924,
+      "source": "assets-source/characters/robot-v2/garments/cargo-shorts.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-shorts",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-shorts-lod1.glb",
+      "sha256": "3230dbed3c45b8b9c4c5045b8380002a7b5db1b6c073c1cfd62398961c90dcf5",
+      "bytes": 610788,
+      "source": "assets-source/characters/robot-v2/garments/cargo-shorts.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-shorts",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-shorts-lod2.glb",
+      "sha256": "a25bf88770f4bb85d1b187e4fdf06008f320b160714f4aaed3a46654f621c1ea",
+      "bytes": 503556,
+      "source": "assets-source/characters/robot-v2/garments/cargo-shorts.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cargo-shorts",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/cargo-shorts-lod3.glb",
+      "sha256": "c069ccfbf5aafcd81c6b0a8aea42f66e3dd213856c44c5438616c4ee5456051c",
+      "bytes": 443972,
+      "source": "assets-source/characters/robot-v2/garments/cargo-shorts.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "joggers",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/joggers-lod0.glb",
+      "sha256": "daf6f19bff5d067ea41c1efc86a904aeb54d905c7cd762adfc1214b673e61968",
+      "bytes": 756456,
+      "source": "assets-source/characters/robot-v2/garments/joggers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "joggers",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/joggers-lod1.glb",
+      "sha256": "031b9851d55903163e52f3935dbc40b451b5c37e6d1fc71c6c065a7a3a445208",
+      "bytes": 614716,
+      "source": "assets-source/characters/robot-v2/garments/joggers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "joggers",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/joggers-lod2.glb",
+      "sha256": "4b273c77a676d18e706990ddec9a90d220ec58f3b18ea17c0023542762de3d05",
+      "bytes": 518776,
+      "source": "assets-source/characters/robot-v2/garments/joggers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "joggers",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/joggers-lod3.glb",
+      "sha256": "bcba17cec2389f8d39e4a2f1662cc93c8b6f78f7e1109bfc2f6c5bdafb5b1b1e",
+      "bytes": 460112,
+      "source": "assets-source/characters/robot-v2/garments/joggers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sneakers",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/sneakers-lod0.glb",
+      "sha256": "ac50060dcc9d03d9b6b2b9734126de9c926109a3d01632e8db2f989a2a213a48",
+      "bytes": 647028,
+      "source": "assets-source/characters/robot-v2/garments/sneakers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sneakers",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/sneakers-lod1.glb",
+      "sha256": "7b68bc284ab15a83c56f12de4e66182a54d19293050ae24aceeb24539949032b",
+      "bytes": 570516,
+      "source": "assets-source/characters/robot-v2/garments/sneakers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sneakers",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/sneakers-lod2.glb",
+      "sha256": "344679a19e55c105c17078b12a63846927c2a6646359766b27fc3560481702ac",
+      "bytes": 510848,
+      "source": "assets-source/characters/robot-v2/garments/sneakers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "sneakers",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/sneakers-lod3.glb",
+      "sha256": "4a5d029926b228115c5b00e8dce3de381fd0506cc26f4702074098407d7dbe4c",
+      "bytes": 473232,
+      "source": "assets-source/characters/robot-v2/garments/sneakers.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "boots",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/boots-lod0.glb",
+      "sha256": "3bdc84f0d28097a6ce851b8442bf162345fdd93995cba08b4335917dc25575c2",
+      "bytes": 661808,
+      "source": "assets-source/characters/robot-v2/garments/boots.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "boots",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/boots-lod1.glb",
+      "sha256": "7b01b181fe5e11bb0209f4c61eb03e7a2f6280232fa780d092b8dab828c97b44",
+      "bytes": 576772,
+      "source": "assets-source/characters/robot-v2/garments/boots.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "boots",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/boots-lod2.glb",
+      "sha256": "cb66ddbc065f22c48d1fa2eec3e360e9044c99da6d98d21a995cf227643e9012",
+      "bytes": 509808,
+      "source": "assets-source/characters/robot-v2/garments/boots.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "boots",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/boots-lod3.glb",
+      "sha256": "958129ce7a61ca6ed7216e5e4f62dd20fa6d7ac1aaaecba0e0bc11683e754703",
+      "bytes": 465960,
+      "source": "assets-source/characters/robot-v2/garments/boots.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "beanie",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/beanie-lod0.glb",
+      "sha256": "3fcdbf96ea506a918650604b18f250f14763022a068dcd9530f52cf55238f10c",
+      "bytes": 342124,
+      "source": "assets-source/characters/robot-v2/garments/beanie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "beanie",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/beanie-lod1.glb",
+      "sha256": "f66bc61c41b045850d277fc433cbab24b56c4652394e681bfc0e5eb44142a4f9",
+      "bytes": 324868,
+      "source": "assets-source/characters/robot-v2/garments/beanie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "beanie",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/beanie-lod2.glb",
+      "sha256": "9c212f796767965a0d4829493c5a0105d5ab6dffcf26954d61510b163879bdb9",
+      "bytes": 312348,
+      "source": "assets-source/characters/robot-v2/garments/beanie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "beanie",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/beanie-lod3.glb",
+      "sha256": "e862a1c134ea08d06b222279bc508699a8f3c6a0282b8100bfd3c982e4e9a1d9",
+      "bytes": 306312,
+      "source": "assets-source/characters/robot-v2/garments/beanie.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cap",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/cap-lod0.glb",
+      "sha256": "d49ad1695f8b6fdef85b5d45b985ac741b77b509089e071a39da49a3cb837789",
+      "bytes": 364288,
+      "source": "assets-source/characters/robot-v2/garments/cap.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cap",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/cap-lod1.glb",
+      "sha256": "48f19a27f90c78a8dd05624af32383688995c8d7521fa12c8c72e5e3c6f568ae",
+      "bytes": 349960,
+      "source": "assets-source/characters/robot-v2/garments/cap.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cap",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/cap-lod2.glb",
+      "sha256": "104ade625a0e390a00101e451253fa31431e5885cd31132a9821b806d56277ed",
+      "bytes": 340612,
+      "source": "assets-source/characters/robot-v2/garments/cap.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "cap",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/cap-lod3.glb",
+      "sha256": "39614a298e44d27e08a6a6706d8b154c9e82be70b57b2acfb17a246dde076ec1",
+      "bytes": 334952,
+      "source": "assets-source/characters/robot-v2/garments/cap.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "headphones",
+      "lod": 0,
+      "url": "/characters/robot-v2/rig-r1/garments/headphones-lod0.glb",
+      "sha256": "fab9f20cdc8e246cf7227e033de9590c807654c2f4d01e7cc2ab5f9988c0e8fe",
+      "bytes": 202404,
+      "source": "assets-source/characters/robot-v2/garments/headphones.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "headphones",
+      "lod": 1,
+      "url": "/characters/robot-v2/rig-r1/garments/headphones-lod1.glb",
+      "sha256": "f9d2a8d733162b0f396339e84a74c81550e773e55cc18039d2e15346e6956a53",
+      "bytes": 173720,
+      "source": "assets-source/characters/robot-v2/garments/headphones.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "headphones",
+      "lod": 2,
+      "url": "/characters/robot-v2/rig-r1/garments/headphones-lod2.glb",
+      "sha256": "28fa6dfa2da5cb26f7906a9cdbe415ed9bbf4bb5b9c25ba354ac214294bafbe2",
+      "bytes": 151736,
+      "source": "assets-source/characters/robot-v2/garments/headphones.blend",
+      "rigRevision": "r1"
+    },
+    {
+      "item": "headphones",
+      "lod": 3,
+      "url": "/characters/robot-v2/rig-r1/garments/headphones-lod3.glb",
+      "sha256": "218744fe2dcb6f39528ab6dd60b7534fe6a985c3ccf5325ed4c369090d59637d",
+      "bytes": 140596,
+      "source": "assets-source/characters/robot-v2/garments/headphones.blend",
+      "rigRevision": "r1"
+    }
+  ],
+  "provenance": "Project authored editable Blender sources; frozen preparation floral art.",
+  "materialBakes": {
+    "normal": "cloth-normal.png",
+    "roughness": "cloth-roughness.png",
+    "recipe": "Actual woven shader plane Cycles NORMAL/ROUGHNESS bake; garment folds in geometry, no print-derived relief."
+  }
+}

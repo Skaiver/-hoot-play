@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "revision": "own-draft-v1",
+  "weapons": [
+    {
+      "id": "ak",
+      "revision": "own-v1",
+      "sourceEntry": "own-ak-v1",
+      "artStatus": "draft",
+      "units": "meters",
+      "forward": "-Z",
+      "up": "+Y",
+      "fp": {
+        "url": "weapons/v1/ak/fp.glb",
+        "bytes": 1170468,
+        "sha256": "7b8f935e2dfea4de29e7d436ea323437df1d0b19690e80eb67946a36e58d512c"
+      },
+      "world": {
+        "url": "weapons/v1/ak/world.glb",
+        "bytes": 845436,
+        "sha256": "1784b94818a9efbaed3397d8076b21af58a977df2a85c80123a374272b12a34e"
+      },
+      "sockets": {
+        "grip": "socket-grip",
+        "trigger": "socket-trigger",
+        "support": "socket-support",
+        "stock": "socket-stock",
+        "sight": "socket-sight",
+        "sight-front": "socket-sight-front",
+        "muzzle": "socket-muzzle",
+        "ejection": "socket-ejection",
+        "magazine-socket": "socket-magazine-socket",
+        "magazine-contact": "socket-magazine-contact"
+      },
+      "parts": {
+        "magazine": "ak-magazine-pivot",
+        "bolt": "ak-bolt-pivot"
+      },
+      "worldMedium": {
+        "url": "weapons/v1/ak/world-medium.glb",
+        "bytes": 355352,
+        "sha256": "e15af722cb13b94eed73fb0debe317315b308e122ee73f5cd72f15e0ef228d6b"
+      },
+      "worldLow": {
+        "url": "weapons/v1/ak/world-low.glb",
+        "bytes": 321016,
+        "sha256": "f361f5769f8e1dac9d10fcf100aad400d362ab936c8c5913013f886455e77c79"
+      },
+      "clips": [
+        {
+          "name": "idle",
+          "duration": 1,
+          "loop": true,
+          "markers": []
+        },
+        {
+          "name": "draw",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "holster",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "fire",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "reload_tactical",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            }
+          ]
+        },
+        {
+          "name": "reload_empty",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            },
+            {
+              "id": "charge",
+              "time": 0.88
+            }
+          ]
+        }
+      ],
+      "budgets": {
+        "maxTriangles": 45000,
+        "maxDraws": 16,
+        "maxBones": 80,
+        "maxTextureBytes": 33554432
+      },
+      "views": {
+        "hip": [
+          0.16,
+          -0.09,
+          -0.36
+        ],
+        "ads": [
+          0,
+          -0.074,
+          -0.006000000000000005
+        ],
+        "bodycam": [
+          0.105,
+          -0.065,
+          -0.18
+        ]
+      }
+    },
+    {
+      "id": "pistol",
+      "revision": "own-v1",
+      "sourceEntry": "own-pistol-v1",
+      "artStatus": "draft",
+      "units": "meters",
+      "forward": "-Z",
+      "up": "+Y",
+      "fp": {
+        "url": "weapons/v1/pistol/fp.glb",
+        "bytes": 1014704,
+        "sha256": "8cf51d3fcd2137467730d5ca95544fd8cc8510fab73e580066b042c617642223"
+      },
+      "world": {
+        "url": "weapons/v1/pistol/world.glb",
+        "bytes": 691008,
+        "sha256": "608598d60aba4f6cb6b12bce1547ded69d287fbe1f788ece606a7ce7dce56364"
+      },
+      "sockets": {
+        "grip": "socket-grip",
+        "trigger": "socket-trigger",
+        "support": "socket-support",
+        "sight": "socket-sight",
+        "sight-front": "socket-sight-front",
+        "muzzle": "socket-muzzle",
+        "ejection": "socket-ejection",
+        "magazine-socket": "socket-magazine-socket",
+        "magazine-contact": "socket-magazine-contact"
+      },
+      "parts": {
+        "magazine": "pistol-magazine-pivot",
+        "slide": "pistol-slide-pivot"
+      },
+      "worldMedium": {
+        "url": "weapons/v1/pistol/world-medium.glb",
+        "bytes": 284748,
+        "sha256": "8c88692d1c68449f42b4e658179d0d87507000dd6ec054e5697bfe45ca1052be"
+      },
+      "worldLow": {
+        "url": "weapons/v1/pistol/world-low.glb",
+        "bytes": 266256,
+        "sha256": "f8671b8d5fb589b9ffbf2be2c3f905cbe3d501ad1971a3eff5773ac6a162c710"
+      },
+      "clips": [
+        {
+          "name": "idle",
+          "duration": 1,
+          "loop": true,
+          "markers": []
+        },
+        {
+          "name": "draw",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "holster",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "fire",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "reload_tactical",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            }
+          ]
+        },
+        {
+          "name": "reload_empty",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            },
+            {
+              "id": "charge",
+              "time": 0.88
+            }
+          ]
+        }
+      ],
+      "budgets": {
+        "maxTriangles": 45000,
+        "maxDraws": 16,
+        "maxBones": 80,
+        "maxTextureBytes": 33554432
+      },
+      "views": {
+        "hip": [
+          0.12,
+          -0.105,
+          -0.34
+        ],
+        "ads": [
+          0,
+          -0.05,
+          -0.20400000000000001
+        ],
+        "bodycam": [
+          0.105,
+          -0.065,
+          -0.18
+        ]
+      }
+    },
+    {
+      "id": "sniper",
+      "revision": "own-v1",
+      "sourceEntry": "own-sniper-v1",
+      "artStatus": "draft",
+      "units": "meters",
+      "forward": "-Z",
+      "up": "+Y",
+      "fp": {
+        "url": "weapons/v1/sniper/fp.glb",
+        "bytes": 1102528,
+        "sha256": "4126ef818400e1007b1acfdcf38707a5a4a3151a12fc1a67d6f397ffec4ffabd"
+      },
+      "world": {
+        "url": "weapons/v1/sniper/world.glb",
+        "bytes": 770724,
+        "sha256": "e387e4c77e9a89aaccbfb17358dfb345921737dc15f32b66cba91dba52019410"
+      },
+      "sockets": {
+        "grip": "socket-grip",
+        "trigger": "socket-trigger",
+        "support": "socket-support",
+        "stock": "socket-stock",
+        "sight": "socket-sight",
+        "sight-front": "socket-sight-front",
+        "muzzle": "socket-muzzle",
+        "ejection": "socket-ejection",
+        "magazine-socket": "socket-magazine-socket",
+        "magazine-contact": "socket-magazine-contact"
+      },
+      "parts": {
+        "magazine": "sniper-magazine-pivot",
+        "bolt": "sniper-bolt-pivot"
+      },
+      "worldMedium": {
+        "url": "weapons/v1/sniper/world-medium.glb",
+        "bytes": 342740,
+        "sha256": "3937550597413735b2a1c298b85264c425a0ec46b8ea2e3d3624932b08c8a19d"
+      },
+      "worldLow": {
+        "url": "weapons/v1/sniper/world-low.glb",
+        "bytes": 290584,
+        "sha256": "4b8bdf2b584996aec56f833caedfa61bc8e164c0d6ab997686ce59b75b1397a4"
+      },
+      "clips": [
+        {
+          "name": "idle",
+          "duration": 1,
+          "loop": true,
+          "markers": []
+        },
+        {
+          "name": "draw",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "holster",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "fire",
+          "duration": 1,
+          "loop": false,
+          "markers": []
+        },
+        {
+          "name": "reload_tactical",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            }
+          ]
+        },
+        {
+          "name": "reload_empty",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "contact",
+              "time": 0.22
+            },
+            {
+              "id": "removed",
+              "time": 0.4
+            },
+            {
+              "id": "seated",
+              "time": 0.79
+            },
+            {
+              "id": "charge",
+              "time": 0.88
+            }
+          ]
+        },
+        {
+          "name": "bolt",
+          "duration": 1,
+          "loop": false,
+          "markers": [
+            {
+              "id": "bolt-lift",
+              "time": 0.22
+            },
+            {
+              "id": "bolt-pull",
+              "time": 0.4
+            },
+            {
+              "id": "bolt-push",
+              "time": 0.65
+            },
+            {
+              "id": "bolt-lock",
+              "time": 0.79
+            }
+          ]
+        }
+      ],
+      "budgets": {
+        "maxTriangles": 45000,
+        "maxDraws": 16,
+        "maxBones": 80,
+        "maxTextureBytes": 33554432
+      },
+      "views": {
+        "hip": [
+          0.14,
+          -0.09,
+          -0.35
+        ],
+        "ads": [
+          0,
+          -0.102,
+          -0.21600000000000003
+        ],
+        "bodycam": [
+          0.105,
+          -0.065,
+          -0.18
+        ]
+      }
+    }
+  ]
+}

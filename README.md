@@ -1,9 +1,5 @@
-# $hoot — Play
+# $hoot
 
-Browser game: https://skaiver.github.io/-hoot-play/
-
-Desktop controls: Enter to start, WASD to move, mouse to look, Shift to sprint,
-Space to jump, left click to fire, right click to aim, R to reload, Escape to pause.
-
-This repository contains only the built game files. Asset credits are included
-in credits.txt and the runtime asset folders. Their respective licenses apply.
+[Open the game menu](https://skaiver.github.io/-hoot-play/) to choose Babylon
+Showcase or the Three.js game with six levels. The public repository contains
+the static files for both builds.
