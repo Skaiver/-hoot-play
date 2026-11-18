@@ -1,0 +1,5 @@
+fps pistol Animated — DJMaesen (bumstrum)
+https://sketchfab.com/3d-models/fps-pistol-animated-a8cdd6c2e936484aaf67e1786c8320d9
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Adapted for $hoot: scale/axes, sockets, split/baked actions, texture resizing and world LODs.

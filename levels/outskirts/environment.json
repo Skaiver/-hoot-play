@@ -1,0 +1,517 @@
+{
+  "fixtures": [
+    {
+      "id": "LIGHT/05_installations-0898__security_light_glass",
+      "positionGame": [
+        -1.5670828819274902,
+        2.7870941162109375,
+        -1.5007790327072144
+      ],
+      "color": [
+        1,
+        0.7300000190734863,
+        0.46000000834465027
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/05_installations-0900__security_light_glass",
+      "positionGame": [
+        1.5670828819274902,
+        2.7870941162109375,
+        -16.499221801757812
+      ],
+      "color": [
+        1,
+        0.7300000190734863,
+        0.46000000834465027
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/05_installations-0902__security_light_glass",
+      "positionGame": [
+        -1.5670828819274902,
+        2.7870941162109375,
+        -22.500778198242188
+      ],
+      "color": [
+        1,
+        0.7300000190734863,
+        0.46000000834465027
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-00",
+      "positionGame": [
+        12.419784545898438,
+        3.5999999046325684,
+        -57.592105865478516
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-01",
+      "positionGame": [
+        31.86008644104004,
+        3.5999999046325684,
+        -63.787166595458984
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-02",
+      "positionGame": [
+        22.71388053894043,
+        3.5999999046325684,
+        -83.07457733154297
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-03",
+      "positionGame": [
+        30.815410614013672,
+        3.5999999046325684,
+        -101.17533874511719
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-04",
+      "positionGame": [
+        27.342315673828125,
+        3.5999999046325684,
+        -117.0057373046875
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-05",
+      "positionGame": [
+        37.2098274230957,
+        3.5999999046325684,
+        -145.27410888671875
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/street-06",
+      "positionGame": [
+        34.28776550292969,
+        3.5999999046325684,
+        -160.5653839111328
+      ],
+      "color": [
+        1,
+        0.6600000262260437,
+        0.3700000047683716
+      ],
+      "range": 6,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/underpass-0",
+      "positionGame": [
+        28.149999618530273,
+        3.5,
+        -128
+      ],
+      "color": [
+        0.6800000071525574,
+        0.8199999928474426,
+        1
+      ],
+      "range": 7,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/underpass-1",
+      "positionGame": [
+        28.149999618530273,
+        3.5,
+        -136
+      ],
+      "color": [
+        0.6800000071525574,
+        0.8199999928474426,
+        1
+      ],
+      "range": 7,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/underpass-2",
+      "positionGame": [
+        28.149999618530273,
+        3.5,
+        -142
+      ],
+      "color": [
+        0.6800000071525574,
+        0.8199999928474426,
+        1
+      ],
+      "range": 7,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/REPAIR/passage-exit-0",
+      "positionGame": [
+        10.7,
+        2.7,
+        -45.35
+      ],
+      "color": [
+        1,
+        0.73,
+        0.46
+      ],
+      "range": 5,
+      "intensity": 0.8
+    },
+    {
+      "id": "LIGHT/REPAIR/passage-exit-1",
+      "positionGame": [
+        18,
+        2.7,
+        -45.35
+      ],
+      "color": [
+        1,
+        0.73,
+        0.46
+      ],
+      "range": 5,
+      "intensity": 0.8
+    },
+    {
+      "id": "01-workshop/lamp0",
+      "positionGame": [
+        34.8,
+        3.6100000000000003,
+        -195
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "01-workshop"
+    },
+    {
+      "id": "01-workshop/lamp1",
+      "positionGame": [
+        45.2,
+        3.6100000000000003,
+        -209
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "01-workshop"
+    },
+    {
+      "id": "02-market/lamp0",
+      "positionGame": [
+        34.8,
+        3.6100000000000003,
+        -219
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "02-market"
+    },
+    {
+      "id": "02-market/lamp1",
+      "positionGame": [
+        57.2,
+        3.6100000000000003,
+        -237
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "02-market"
+    },
+    {
+      "id": "04-canal-arch/lamp0",
+      "positionGame": [
+        56.8,
+        3.6100000000000003,
+        -271
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "04-canal-arch"
+    },
+    {
+      "id": "04-canal-arch/lamp1",
+      "positionGame": [
+        71.2,
+        3.6100000000000003,
+        -291
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "04-canal-arch"
+    },
+    {
+      "id": "05-canal-walk/lamp0",
+      "positionGame": [
+        61.8,
+        3.6100000000000003,
+        -301
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "05-canal-walk"
+    },
+    {
+      "id": "05-canal-walk/lamp1",
+      "positionGame": [
+        74.2,
+        3.6100000000000003,
+        -327
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "05-canal-walk"
+    },
+    {
+      "id": "06-freight/lamp0",
+      "positionGame": [
+        58.8,
+        3.6100000000000003,
+        -337
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "06-freight"
+    },
+    {
+      "id": "06-freight/lamp1",
+      "positionGame": [
+        85.2,
+        3.6100000000000003,
+        -357
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "06-freight"
+    },
+    {
+      "id": "07-gatecourt/lamp0",
+      "positionGame": [
+        66.8,
+        3.6100000000000003,
+        -367
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "07-gatecourt"
+    },
+    {
+      "id": "07-gatecourt/lamp1",
+      "positionGame": [
+        109.2,
+        3.6100000000000003,
+        -393
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "07-gatecourt"
+    },
+    {
+      "id": "08-extraction/lamp0",
+      "positionGame": [
+        86.8,
+        3.6100000000000003,
+        -403
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "08-extraction"
+    },
+    {
+      "id": "08-extraction/lamp1",
+      "positionGame": [
+        113.2,
+        3.6100000000000003,
+        -417
+      ],
+      "color": [
+        1,
+        0.65,
+        0.3
+      ],
+      "range": 6,
+      "intensity": 8,
+      "sector": "08-extraction"
+    },
+    {
+      "id": "03-printworks/interior247",
+      "positionGame": [
+        58,
+        3.6100000000000003,
+        -247
+      ],
+      "color": [
+        0.88,
+        0.93,
+        1
+      ],
+      "range": 7,
+      "intensity": 2.2,
+      "sector": "03-printworks"
+    },
+    {
+      "id": "03-printworks/interior253",
+      "positionGame": [
+        58,
+        3.6100000000000003,
+        -253
+      ],
+      "color": [
+        0.88,
+        0.93,
+        1
+      ],
+      "range": 7,
+      "intensity": 2.2,
+      "sector": "03-printworks"
+    },
+    {
+      "id": "03-printworks/interior259",
+      "positionGame": [
+        58,
+        3.6100000000000003,
+        -259
+      ],
+      "color": [
+        0.88,
+        0.93,
+        1
+      ],
+      "range": 7,
+      "intensity": 2.2,
+      "sector": "03-printworks"
+    },
+    {
+      "id": "03-printworks/interior264",
+      "positionGame": [
+        58,
+        3.6100000000000003,
+        -264
+      ],
+      "color": [
+        0.88,
+        0.93,
+        1
+      ],
+      "range": 7,
+      "intensity": 2.2,
+      "sector": "03-printworks"
+    }
+  ]
+}

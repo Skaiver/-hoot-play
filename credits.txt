@@ -1,0 +1,31 @@
+NEON COURTYARD — LOCAL SHOWCASE
+
+AK and pistol models, source animations and courtyard kit were copied from the separate original hoot project; provenance and SHA256 records are in content/asset-manifest.json and docs/assets/. No live original-project files are loaded at runtime.
+
+Weapon shot recordings and their original CC0 attribution records are included with the audio intake. Footstep recordings: WASD Sound, WASD Footstep SFX Free Bundle v3, https://wasd-sound.itch.io/free-integrated-footstep-sfx-bundle . Stone and wood use recorded walking, running and landing sets; metal shares stone. License supplied at /assets/audio/footsteps/wasd/LICENSE.pdf . Mechanical fallback cues, ambience and open railings were generated for this showcase. Synthesized mechanics and ambience remain subject to headphone review.
+
+JPN vending machine by adenotoxin (https://sketchfab.com/adenotoxin).
+Source: https://sketchfab.com/3d-models/jpn-vending-machine-e9a1050ada83417592fc3233cb6a4c0a
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ .
+The supplied GLB is unchanged. Runtime scale and placement are adjusted for the courtyard.
+
+This is a local evaluation build. Redistribution permission for all original map textures has not been established; publication is outside the current plan. See docs/assets/register.md and the copied source credits before any later redistribution.
+
+Babylon.js 9.27.1 / BabylonJS Editor 5.5.2 / Rapier 0.20.0. Package licenses remain with their dependencies.
+
+Original shot attribution records: /assets/audio/CREDITS.md
+
+M02 roadblock assets: see assets/mission/CREDITS.txt (M4, Holo, suppressor, guard, drone, Sentry-2, Poly Haven and ambientCG; source links, authors, licenses and modifications).
+
+M04 escape pickup: Car by Quaternius (CC0), https://poly.pizza/m/unqqkULtRU . Scale and placement adapted; original model retained. Current missions use human enemies only; the earlier Sentry-2 boss is historical.
+
+M04.1 / M04.2: Poly Haven Hidden Alley modular opening and Worn Asphalt, Plastered Wall 04, Rough Linen material maps (CC0). Sources, licenses and modifications: assets/mission/CREDITS.txt and assets-source intake manifests.
+
+M05.1 extends the modular opening/first street with original Poly Haven Factory Facade, Fire Escape, Metal Gutter, Security Light and Water Manhole Cover (CC0). Authors, source URLs and runtime adaptations: assets/mission/CREDITS.txt.
+
+M05.2 overcast late-afternoon lighting: Overcast Soil (Pure Sky), CC0.
+Sky edits by Jarod Guest; original by Sergej Majboroda.
+https://polyhaven.com/a/overcast_soil_puresky
+https://polyhaven.com/license
+Original 1K HDR converted to a prefiltered 256px-per-face Babylon RGBD environment (710,675 bytes), including spherical harmonics and roughness mipmaps. Used for the visible sky and shared world/first-person reflections.
+Source metadata, original checksum and runtime SHA-256: assets-source/lighting/overcast_soil_puresky/intake-manifest.json.

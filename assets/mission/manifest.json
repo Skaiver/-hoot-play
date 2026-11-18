@@ -1,0 +1,235 @@
+{
+  "revision": "M05-lighting-v1",
+  "files": [
+    {
+      "url": "assets/mission/Asphalt031-Color.webp",
+      "bytes": 1630170,
+      "sha256": "e453d290634f80505e3eb4f81ad5d16bea39fe0c780dda229a70444dd3e4a0bc"
+    },
+    {
+      "url": "assets/mission/Asphalt031-NormalGL.webp",
+      "bytes": 1765202,
+      "sha256": "34850c41d5bb10cb78117d18f04bf44d6b49620f6290c22e7951483e95338ddc"
+    },
+    {
+      "url": "assets/mission/Asphalt031-Roughness.webp",
+      "bytes": 432128,
+      "sha256": "bde4d81c6d0b777f1fc4791edead3b61670b2168f0408e3ef9adc5fedaff243f"
+    },
+    {
+      "url": "assets/mission/Bricks097-Color.webp",
+      "bytes": 654112,
+      "sha256": "23904ccd8c96a9296c6c5f64e68bd1b1a11c3516c3e68b1fc2ec9fcc77268f09"
+    },
+    {
+      "url": "assets/mission/Bricks097-NormalGL.webp",
+      "bytes": 616596,
+      "sha256": "e7751cd0890c092fb4737df5568436ed3e49ab773d0fcae319031c28e062d495"
+    },
+    {
+      "url": "assets/mission/Bricks097-Roughness.webp",
+      "bytes": 167388,
+      "sha256": "ee792e1912951529d06f36c61e5c61af186eb480a0111f302bb3a1289b27b61b"
+    },
+    {
+      "url": "assets/mission/Concrete034-Color.webp",
+      "bytes": 49028,
+      "sha256": "e625f68cf31147f58e884cd894fc25aa618e2f863889bb44290550865da579f4"
+    },
+    {
+      "url": "assets/mission/Concrete034-NormalGL.webp",
+      "bytes": 112146,
+      "sha256": "9000201a37d670de441cae0b5e21c1a432aac3d1abaa515da51007040ab3972c"
+    },
+    {
+      "url": "assets/mission/Concrete034-Roughness.webp",
+      "bytes": 32162,
+      "sha256": "cdf3db7c67c8a4c34a7d068dc66f443e9c00ad00acbd0bb3d70fb020f860ce90"
+    },
+    {
+      "url": "assets/mission/concrete_road_barrier.glb",
+      "bytes": 447480,
+      "sha256": "e9cfeb1a2e7e6e78c2f2952b21f42dbffb81ca99b02690128344da750619cf6d"
+    },
+    {
+      "url": "assets/mission/covered_car.glb",
+      "bytes": 398300,
+      "sha256": "4040024d5ca188eaa592591b6b96ccc027a4024baffbdc50389e6bbd9954833c"
+    },
+    {
+      "url": "assets/mission/drone.glb",
+      "bytes": 27596,
+      "sha256": "f95987aedc1bbd81a1a6504764614411d08936d13ec342ac06625d4285aaa58c"
+    },
+    {
+      "url": "assets/mission/escape-car.glb",
+      "bytes": 174320,
+      "sha256": "e5f5fa41c4434383b20287725c0e9d757cbd0f059eedc342ec265d32a195fe39"
+    },
+    {
+      "url": "assets/mission/exterior_aircon_unit.glb",
+      "bytes": 1330484,
+      "sha256": "8e1bb1907de31a0baafb5f09349faf0191dfd003c005ebed8a226bc0eb99dca5"
+    },
+    {
+      "url": "assets/mission/ha-modular_factory_facade.glb",
+      "bytes": 18088416,
+      "sha256": "88f34854549ca6983068fafc73e25af9eac2612ee5b52dfda40cd063d56832f2"
+    },
+    {
+      "url": "assets/mission/ha-modular_fire_escape.glb",
+      "bytes": 4800780,
+      "sha256": "b30e03b7b32042f782855105a4a41f7b79eea2d1d75d5bb4a54aba8f7475a890"
+    },
+    {
+      "url": "assets/mission/ha-modular_metal_gutter.glb",
+      "bytes": 2205076,
+      "sha256": "0daad5ca8676bb7b47f86821b3ab20b0e0decc95c8c90d3d5eb0b85edfa434ec"
+    },
+    {
+      "url": "assets/mission/ha-modular_urban_apartments_facade.glb",
+      "bytes": 16373260,
+      "sha256": "df01d44654850c5c6de83335d0aa63263dd40780cf3657eb63648ef14153996c"
+    },
+    {
+      "url": "assets/mission/ha-old_tyre.glb",
+      "bytes": 2236212,
+      "sha256": "c389217d855d68fb7d4cddb2952492aa9a4dde2530b9539c5c73087d5b8e2495"
+    },
+    {
+      "url": "assets/mission/ha-rollershutter_door.glb",
+      "bytes": 2340916,
+      "sha256": "a7e78baa2b78292f0c4561a2d029dc7b575ac387a746a4ae94b71d3b5001891d"
+    },
+    {
+      "url": "assets/mission/ha-security_light.glb",
+      "bytes": 2976328,
+      "sha256": "0c04860963847ef1df92860070001b8a5fe2c4320e6fc7a770c351eb8bc6a742"
+    },
+    {
+      "url": "assets/mission/ha-trashbag.glb",
+      "bytes": 1698476,
+      "sha256": "e6bac902bf1264f1580c67772b518ab3e35a734ea9f6eb4fad89d6c07272d22d"
+    },
+    {
+      "url": "assets/mission/ha-utility_box_02.glb",
+      "bytes": 2028236,
+      "sha256": "05897a5b8ae685e36758dedc33df39bf3c942d793993e45c273288d5ccb3556e"
+    },
+    {
+      "url": "assets/mission/ha-water_manhole_cover.glb",
+      "bytes": 2331880,
+      "sha256": "8e31b421b4ad5e6bc5570a776830318a308d3439cbec0c291f4b601bb0426698"
+    },
+    {
+      "url": "assets/mission/holo.glb",
+      "bytes": 1812276,
+      "sha256": "835e96c41b160fa7aaa68d853a921d97ac7274351dbea28cf98c5873ea22d215"
+    },
+    {
+      "url": "assets/mission/m4a1.glb",
+      "bytes": 5077112,
+      "sha256": "7596def5dfff026b76741630e32c15496e5599dff5b84ab303be1e7308b689fe"
+    },
+    {
+      "url": "assets/mission/metal_trash_can.glb",
+      "bytes": 839444,
+      "sha256": "431e7dc599b9d9d852b9c33178b1706ec843871d04ac59af1dac17f1909c838b"
+    },
+    {
+      "url": "assets/mission/old_military_crate.glb",
+      "bytes": 375004,
+      "sha256": "ba4c4d16e49446de60d747a0e827f697ffcb0e61f89caca7a6d93f6d8c9d4086"
+    },
+    {
+      "url": "assets/mission/overcast-sky.env",
+      "bytes": 710675,
+      "sha256": "76d20073c160672e162342c8ab8cbc68081a20ac0bcb02626e091de35bdea7e4"
+    },
+    {
+      "url": "assets/mission/PaintedPlaster015-Color.webp",
+      "bytes": 164880,
+      "sha256": "754c5851693e1c06be44f37c743ae642de718b4200ae6a01a58cb5014cb559fd"
+    },
+    {
+      "url": "assets/mission/PaintedPlaster015-NormalGL.webp",
+      "bytes": 395156,
+      "sha256": "31819a4038fa7aef0c1e9a6159429e2215c8b7c1f634bbcd964a6591edb74074"
+    },
+    {
+      "url": "assets/mission/PaintedPlaster015-Roughness.webp",
+      "bytes": 161252,
+      "sha256": "ce3ae6df322619a407f164cc7b960b19b43975ad84b79160816580ab8eeffd3d"
+    },
+    {
+      "url": "assets/mission/ph-plastered_wall_04-Color.jpg",
+      "bytes": 299230,
+      "sha256": "52d789111bbe93d311c22e49d28b56256593c8f84c75742642403da857a36503"
+    },
+    {
+      "url": "assets/mission/ph-plastered_wall_04-NormalGL.jpg",
+      "bytes": 427268,
+      "sha256": "c0a41dc06e33072ec1156d89f3bd4b481a479616791d4e9df6c5ee7b3283db82"
+    },
+    {
+      "url": "assets/mission/ph-plastered_wall_04-Roughness.jpg",
+      "bytes": 243061,
+      "sha256": "76587f1a3cf6bc009caaf3d1d7651ee52359e43ce91bf52e8a3ed07cff9db623"
+    },
+    {
+      "url": "assets/mission/ph-rough_linen-Color.jpg",
+      "bytes": 835801,
+      "sha256": "04897d7611d7390ddf5b2c6f7273f448dfc48341fdbd1f4f207fa30b331d7f57"
+    },
+    {
+      "url": "assets/mission/ph-rough_linen-NormalGL.jpg",
+      "bytes": 916843,
+      "sha256": "e2402166d1a489f7414814e69e1836ab672aa24e30bec2d41fea356f81687e53"
+    },
+    {
+      "url": "assets/mission/ph-rough_linen-Roughness.jpg",
+      "bytes": 1083725,
+      "sha256": "734ad6718841a6e296aacaa6e9ee2e1686eed5f62bb8d71c915c5605e162bcb4"
+    },
+    {
+      "url": "assets/mission/ph-worn_asphalt-Color.jpg",
+      "bytes": 914719,
+      "sha256": "3bf71ad290730092ad2aee85e246b2e43318bc1f32261826ba91250e815b5f72"
+    },
+    {
+      "url": "assets/mission/ph-worn_asphalt-NormalGL.jpg",
+      "bytes": 1503498,
+      "sha256": "5f835d192dac296674229a763553f356f5e206bb7f6d812bca5b0f38fc5302a4"
+    },
+    {
+      "url": "assets/mission/ph-worn_asphalt-Roughness.jpg",
+      "bytes": 480395,
+      "sha256": "ad63ece01a94cb43f57a9d628fa9d28a560bffc8878749998ad3601831ab843f"
+    },
+    {
+      "url": "assets/mission/robot.glb",
+      "bytes": 223452,
+      "sha256": "85f0c5e915fedc25539a843b5c1a62721ceceaf306f6b8f21405bb9fe39acf00"
+    },
+    {
+      "url": "assets/mission/soldier.glb",
+      "bytes": 2235864,
+      "sha256": "b465bd390410b5c78fad101584e5d636a7c9b9b4a4ed4e0fed27235ec9173d27"
+    },
+    {
+      "url": "assets/mission/street_lamp_01.glb",
+      "bytes": 261532,
+      "sha256": "5534b0839c18377a110839107cd7dfabe1f654f5968c397e13f3bec700c6ec52"
+    },
+    {
+      "url": "assets/mission/suppressor.glb",
+      "bytes": 17312,
+      "sha256": "0eb973c7fbcfe4b3f50f377467a1fd54d3f947cba19157e5ae35910d230d4d93"
+    },
+    {
+      "url": "assets/mission/wooden_crate_02.glb",
+      "bytes": 331724,
+      "sha256": "e18d97c32a228e0605575154b3eb97a395408dde4c3462326c050bff28dac636"
+    }
+  ]
+}

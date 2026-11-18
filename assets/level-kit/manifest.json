@@ -1,0 +1,699 @@
+{
+  "schema": "hoot.showcase.kit.v1",
+  "blender": "5.2.2 LTS",
+  "parent": "assets-source/level-kit/arena/arena.blend",
+  "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+  "families": [
+    {
+      "id": "floor",
+      "url": "assets/level-kit/floor.glb",
+      "editorAsset": "assets/level-kit/floor.glb",
+      "bytes": 1993532,
+      "sha256": "87e4e6ef23573f36b81f5b5cb6cc8116172bcd5c3aa28839e9968d347ab05906",
+      "sourceObjects": [
+        "Construction source | Interior | floor"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -2.500000238418579,
+          5.21540641784668e-08,
+          -3.500000238418579
+        ],
+        "max": [
+          2.500000238418579,
+          0.14000004529953003,
+          3.500000238418579
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "solid cuboid; tiled floor",
+      "topology": [
+        {
+          "name": "Construction source | Interior | floor",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Stone | furnished room plaster.001"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "wall",
+      "url": "assets/level-kit/wall.glb",
+      "editorAsset": "assets/level-kit/wall.glb",
+      "bytes": 1993500,
+      "sha256": "1515237160767273b881792779659e217ce0c456184c8a6707eb9198fd88aee6",
+      "sourceObjects": [
+        "Construction source | Interior | rear wall"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -3.500000476837158,
+          0.0,
+          -0.08000067621469498
+        ],
+        "max": [
+          3.499999523162842,
+          3.5,
+          0.07999932020902634
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 1.5707963267948966,
+      "collisionProposal": "solid cuboid",
+      "topology": [
+        {
+          "name": "Construction source | Interior | rear wall",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Stone | furnished room plaster.001"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "facade",
+      "url": "assets/level-kit/facade.glb",
+      "editorAsset": "assets/level-kit/facade.glb",
+      "bytes": 1468892,
+      "sha256": "a6453c43855435dc7773bf7008f54f7b50a2879364b2d26034585ddf5f5fdf8d",
+      "sourceObjects": [
+        "Overhaul | Arcade plinth",
+        "Overhaul | Arcade pier -2.75",
+        "Overhaul | Arcade pier 2.75",
+        "Overhaul | Arcade reveal header"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -2.880000114440918,
+          0.0,
+          -0.6300004720687866
+        ],
+        "max": [
+          2.880000114440918,
+          3.0,
+          0.6300002336502075
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "separate pier/header boxes; doorway stays open",
+      "topology": [
+        {
+          "name": "Overhaul | Arcade plinth",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | Arcade pier -2.75",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | Arcade pier 2.75",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | Arcade reveal header",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Overhaul | Arcade enamel graphite",
+        "Overhaul | Arcade mineral ceramic 4m"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "ramp",
+      "url": "assets/level-kit/ramp.glb",
+      "editorAsset": "assets/level-kit/ramp.glb",
+      "bytes": 1987164,
+      "sha256": "801ea41f7fd5a0730fbb70bcf08955405dc76cee2aadd351033885d671fe1c35",
+      "sourceObjects": [
+        "arena-solid-ramp"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -1.5,
+          0.0,
+          -4.65000057220459
+        ],
+        "max": [
+          1.5,
+          3.401111125946045,
+          4.649999618530273
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "triangle-mesh ramp; derive player collision from same geometry in Phase 03",
+      "topology": [
+        {
+          "name": "arena-solid-ramp",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Material_1",
+        "Overhaul | honed mineral 2m"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "gallery",
+      "url": "assets/level-kit/gallery.glb",
+      "editorAsset": "assets/level-kit/gallery.glb",
+      "bytes": 1417796,
+      "sha256": "08ac235238aeaa175fccaa7d137648398af0790a2c436efc9fca49cd9f9d1f6a",
+      "sourceObjects": [
+        "Construction source | Interior | ceiling"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -1.2500001192092896,
+          -3.725290298461914e-08,
+          -1.7500001192092896
+        ],
+        "max": [
+          1.2500001192092896,
+          0.07999996095895767,
+          1.7500001192092896
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "solid deck module; uniform half-scale variant",
+      "topology": [
+        {
+          "name": "Construction source | Interior | ceiling",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Wood | furnished room walnut.001"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "railing",
+      "url": "assets/level-kit/railing.glb",
+      "editorAsset": "assets/level-kit/railing.glb",
+      "bytes": 1993544,
+      "sha256": "490a73a1cbf4b94e9edb0cb1f0cd8e66dff51b9a0b4ba7ba8eddf7636d5133c6",
+      "sourceObjects": [
+        "Construction source | Interior | rear wall"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -0.9999999403953552,
+          0.0,
+          -0.0800003781914711
+        ],
+        "max": [
+          1.0000001192092896,
+          0.9000000357627869,
+          0.07999999076128006
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        0.2857142857142857,
+        0.2571428571428572
+      ],
+      "sourceRotationZ": 1.5707963267948966,
+      "collisionProposal": "solid parapet; baked wall variant",
+      "topology": [
+        {
+          "name": "Construction source | Interior | rear wall",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Stone | furnished room plaster.001"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "cover",
+      "url": "assets/level-kit/cover.glb",
+      "editorAsset": "assets/level-kit/cover.glb",
+      "bytes": 1986720,
+      "sha256": "5c3c3f3a3d2f531665c8b73dbbf2cfa11693472b15bbfb4a56dc88eb802ab259",
+      "sourceObjects": [
+        "Construction source | reference-mesh-160"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -0.9813945889472961,
+          0.0,
+          -0.6688356399536133
+        ],
+        "max": [
+          0.9813945889472961,
+          1.0,
+          0.6688356399536133
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "solid cover box",
+      "topology": [
+        {
+          "name": "Construction source | reference-mesh-160",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Material_53"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "canopy",
+      "url": "assets/level-kit/canopy.glb",
+      "editorAsset": "assets/level-kit/canopy.glb",
+      "bytes": 103904,
+      "sha256": "b4eeca1e1296f78d42146d67afe8665dbc355d6d3b06dc70c6a4878ddbb631cd",
+      "sourceObjects": [
+        "Overhaul | repair stand canopy",
+        "Overhaul | repair stand post 0",
+        "Overhaul | repair stand post 1",
+        "Overhaul | repair stand post 2",
+        "Overhaul | repair stand post 3"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -3.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          3.0,
+          2.200000047683716,
+          1.0
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "post boxes plus overhead slab; no invisible filled volume",
+      "topology": [
+        {
+          "name": "Overhaul | repair stand canopy",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | repair stand post 0",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | repair stand post 1",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | repair stand post 2",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | repair stand post 3",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Overhaul | repair canopy desaturated ochre",
+        "Overhaul | repair stand coated metal"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "sign",
+      "url": "assets/level-kit/sign.glb",
+      "editorAsset": "assets/level-kit/sign.glb",
+      "bytes": 251472,
+      "sha256": "a53defde6835f98964551483e731b50b3ee2cd0252a2c9965fe4d2593045122d",
+      "sourceObjects": [
+        "Overhaul | Arcade sign panel",
+        "Overhaul | sign N O V A   /   P L A Y"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -2.2750000953674316,
+          -2.9802322387695312e-08,
+          -0.024250106886029243
+        ],
+        "max": [
+          2.2750000953674316,
+          0.3099999725818634,
+          0.024250579997897148
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "decorative; optional small backing box, lettering never a collider",
+      "topology": [
+        {
+          "name": "Overhaul | Arcade sign panel",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        },
+        {
+          "name": "Overhaul | sign N O V A   /   P L A Y",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Overhaul | Arcade cyan lettering",
+        "Overhaul | Arcade enamel petrol"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    },
+    {
+      "id": "light",
+      "url": "assets/level-kit/light.glb",
+      "editorAsset": "assets/level-kit/light.glb",
+      "bytes": 71360,
+      "sha256": "ebde50c07001ac6d9423e77e57642f88b190585d2716fb31313aa546d406a64d",
+      "sourceObjects": [
+        "Overhaul | Arcade lintel light"
+      ],
+      "parentSHA256": "cb1e41bc814ac8c9b1b86d8525d8b2711dfbde705dbc763dd130493b4c456d59",
+      "origin": "bottom center",
+      "units": "meters",
+      "bounds": {
+        "min": [
+          -2.319999933242798,
+          -7.636845111846924e-08,
+          -0.02250000089406967
+        ],
+        "max": [
+          2.319999933242798,
+          0.034999921917915344,
+          0.02250000089406967
+        ]
+      },
+      "allowedInstanceScale": "uniform 0.5\u20132; nonuniform changes require source edit and new UV review",
+      "sourceVariantScale": [
+        1,
+        1,
+        1
+      ],
+      "sourceRotationZ": 0,
+      "collisionProposal": "decorative emissive strip; light influence is separate",
+      "topology": [
+        {
+          "name": "Overhaul | Arcade lintel light",
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0
+        }
+      ],
+      "materials": [
+        "Overhaul | Arcade warm diffuser"
+      ],
+      "status": "technical asset; final UV/placement/art approval remains Phase 06"
+    }
+  ],
+  "textures": [
+    {
+      "name": "Round4 | weathered mineral albedo",
+      "path": "assets-source/level-kit/textures/6e977653f1cd9991248ad8bf1e4e5dadb3e029e410ec1bc07aa9b6ba148cc277.png",
+      "sha256": "6e977653f1cd9991248ad8bf1e4e5dadb3e029e410ec1bc07aa9b6ba148cc277",
+      "bytes": 262118,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "Round4 | weathered mineral normal",
+      "path": "assets-source/level-kit/textures/3b5ebbec2a6ce5d4fcd57818384603509a63b00ea6575b28c5d01c44db6ec4cf.png",
+      "sha256": "3b5ebbec2a6ce5d4fcd57818384603509a63b00ea6575b28c5d01c44db6ec4cf",
+      "bytes": 392235,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "Round4 | weathered mineral roughness",
+      "path": "assets-source/level-kit/textures/59234e7983c180fead0658b34e052665f761c00d542c0d1e57d2ac1b2054d5a5.png",
+      "sha256": "59234e7983c180fead0658b34e052665f761c00d542c0d1e57d2ac1b2054d5a5",
+      "bytes": 280765,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "R5-mineral-base",
+      "path": "assets-source/level-kit/textures/aae81158b168d64acc044f30187e4fb2745780723d7c66f27d384150f146b8a2.png",
+      "sha256": "aae81158b168d64acc044f30187e4fb2745780723d7c66f27d384150f146b8a2",
+      "bytes": 490844,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-mineral-base.png"
+    },
+    {
+      "name": "R5-mineral-normal",
+      "path": "assets-source/level-kit/textures/ec17ec756acdc0af0b6d124d0a5df9a15bbf0c3d191598aed9e40ae979cb8f47.png",
+      "sha256": "ec17ec756acdc0af0b6d124d0a5df9a15bbf0c3d191598aed9e40ae979cb8f47",
+      "bytes": 1261731,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-mineral-normal.png"
+    },
+    {
+      "name": "R5-mineral-roughness",
+      "path": "assets-source/level-kit/textures/91e80439f8bfbc06404e61c5c0c8a22464be2eb3762910e435145ce77b542de8.png",
+      "sha256": "91e80439f8bfbc06404e61c5c0c8a22464be2eb3762910e435145ce77b542de8",
+      "bytes": 181579,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-mineral-roughness.png"
+    },
+    {
+      "name": "arcade-mineral-base-1k",
+      "path": "assets-source/level-kit/textures/ecd16cf6d209aaaf686673fadba8de24a9446fcc7d36fa812d4df41121229979.png",
+      "sha256": "ecd16cf6d209aaaf686673fadba8de24a9446fcc7d36fa812d4df41121229979",
+      "bytes": 1593496,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/arcade-mineral-base-1k.png"
+    },
+    {
+      "name": "arcade-mineral-roughness-1k",
+      "path": "assets-source/level-kit/textures/171e920ee8841780cd5a7b5096c356b33c723d7239e3aaef615d302ead4a23f6.png",
+      "sha256": "171e920ee8841780cd5a7b5096c356b33c723d7239e3aaef615d302ead4a23f6",
+      "bytes": 1153030,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/arcade-mineral-roughness-1k.png"
+    },
+    {
+      "name": "arcade-mineral-normal-1k",
+      "path": "assets-source/level-kit/textures/e0185a73e71e61c948a78045c298002e1dfa054f91b3d8dea4e28c6f2bc3da8f.png",
+      "sha256": "e0185a73e71e61c948a78045c298002e1dfa054f91b3d8dea4e28c6f2bc3da8f",
+      "bytes": 474613,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/arcade-mineral-normal-1k.png"
+    },
+    {
+      "name": "R5-masonry-base",
+      "path": "assets-source/level-kit/textures/a329c85a10509463363de38b6010a95ee55c12883c7709f0ff4f9614b73b6991.png",
+      "sha256": "a329c85a10509463363de38b6010a95ee55c12883c7709f0ff4f9614b73b6991",
+      "bytes": 211248,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-masonry-base.png"
+    },
+    {
+      "name": "R5-masonry-normal",
+      "path": "assets-source/level-kit/textures/cf1737c31b197f058a5c70195c6ae6b30667f6388997c04674695ee2654a0e89.png",
+      "sha256": "cf1737c31b197f058a5c70195c6ae6b30667f6388997c04674695ee2654a0e89",
+      "bytes": 821269,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-masonry-normal.png"
+    },
+    {
+      "name": "R5-masonry-roughness",
+      "path": "assets-source/level-kit/textures/20ef5ded6d9f6c5544debbf9f2d5b4412f0543b5f88857ee18f386143f782dae.png",
+      "sha256": "20ef5ded6d9f6c5544debbf9f2d5b4412f0543b5f88857ee18f386143f782dae",
+      "bytes": 211009,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-masonry-roughness.png"
+    },
+    {
+      "name": "R5-metal-base",
+      "path": "assets-source/level-kit/textures/322f9d7599f8cd51572502e7abcf693cb75b1cee2561f46fa80f30f59f7b6032.png",
+      "sha256": "322f9d7599f8cd51572502e7abcf693cb75b1cee2561f46fa80f30f59f7b6032",
+      "bytes": 57337,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-metal-base.png"
+    },
+    {
+      "name": "R5-metal-normal",
+      "path": "assets-source/level-kit/textures/29c06620ce49c27e2bf26ed9bb4bedcf02e762d5988deb38f26e111cc68483ac.png",
+      "sha256": "29c06620ce49c27e2bf26ed9bb4bedcf02e762d5988deb38f26e111cc68483ac",
+      "bytes": 13977,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-metal-normal.png"
+    },
+    {
+      "name": "R5-metal-roughness",
+      "path": "assets-source/level-kit/textures/9052d5fea3f52be2dd961d9e4fe06378482e8e7da442f0f8e512855c3f1d0d94.png",
+      "sha256": "9052d5fea3f52be2dd961d9e4fe06378482e8e7da442f0f8e512855c3f1d0d94",
+      "bytes": 81836,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-metal-roughness.png"
+    },
+    {
+      "name": "Image_3",
+      "path": "assets-source/level-kit/textures/b853697e031692914d425c5d7d079226a5c1aaf35e4062472ad8793cb1266764.png",
+      "sha256": "b853697e031692914d425c5d7d079226a5c1aaf35e4062472ad8793cb1266764",
+      "bytes": 2660,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "plaza-honed-mineral-512",
+      "path": "assets-source/level-kit/textures/9fd08277a21979997f664090e8daf711c0f23b042e876342f8b8ea574ca428e7.png",
+      "sha256": "9fd08277a21979997f664090e8daf711c0f23b042e876342f8b8ea574ca428e7",
+      "bytes": 361378,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/plaza-honed-mineral-512.png"
+    },
+    {
+      "name": "Round4 | open grain timber albedo",
+      "path": "assets-source/level-kit/textures/13ecae8d5b5f8f1c5e6a167df480490e930405a33760c12d881a52694ffe5bb6.png",
+      "sha256": "13ecae8d5b5f8f1c5e6a167df480490e930405a33760c12d881a52694ffe5bb6",
+      "bytes": 246093,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "Round4 | open grain timber normal",
+      "path": "assets-source/level-kit/textures/e130b524dc15575db90162ca6fa1b3a346900c45dab8b2aaae2a19106f856888.png",
+      "sha256": "e130b524dc15575db90162ca6fa1b3a346900c45dab8b2aaae2a19106f856888",
+      "bytes": 341839,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "Round4 | open grain timber roughness",
+      "path": "assets-source/level-kit/textures/130a28fac38abb27469e566d2ac7e1520c186e000b792822d108bb6590f21149.png",
+      "sha256": "130a28fac38abb27469e566d2ac7e1520c186e000b792822d108bb6590f21149",
+      "bytes": 253128,
+      "packedInParent": true,
+      "originalPath": ""
+    },
+    {
+      "name": "R5-timber-base",
+      "path": "assets-source/level-kit/textures/6416da8816abe115ed27a71d8e6918c35e9bf2bc40acb8d1b583c9c17e7d64fa.png",
+      "sha256": "6416da8816abe115ed27a71d8e6918c35e9bf2bc40acb8d1b583c9c17e7d64fa",
+      "bytes": 321202,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-timber-base.png"
+    },
+    {
+      "name": "R5-timber-normal",
+      "path": "assets-source/level-kit/textures/fc4d67dd3e3d8023e38ecdd65c36907768f7b4f315c01bb40a04e1eaa7d12c9b.png",
+      "sha256": "fc4d67dd3e3d8023e38ecdd65c36907768f7b4f315c01bb40a04e1eaa7d12c9b",
+      "bytes": 763292,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-timber-normal.png"
+    },
+    {
+      "name": "R5-timber-roughness",
+      "path": "assets-source/level-kit/textures/9fe219e270cd9e0b008418ac234509d586db9650ccb3107c1b7fe029b667f2a9.png",
+      "sha256": "9fe219e270cd9e0b008418ac234509d586db9650ccb3107c1b7fe029b667f2a9",
+      "bytes": 292056,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/R5/R5-timber-roughness.png"
+    },
+    {
+      "name": "arcade-enamel-service-roughness-512",
+      "path": "assets-source/level-kit/textures/e8e1836dbf46b42142597a9e70c8a3c6ff6a7c8f2201579780a24d7184b01d10.png",
+      "sha256": "e8e1836dbf46b42142597a9e70c8a3c6ff6a7c8f2201579780a24d7184b01d10",
+      "bytes": 292318,
+      "packedInParent": true,
+      "originalPath": "C:/Users/Malte/Documents/JSWorkspace/$hoot/assets-source/levels/shared/overhaul-20261017/textures/arcade-enamel-service-roughness-512.png"
+    }
+  ],
+  "notes": [
+    "Whole editable source objects selected; no position-based triangle cropping.",
+    "World transforms baked, axes exported once through glTF Y-up, roots centered on the bottom.",
+    "Selected packed material images extracted as versioned provenance; runtime GLBs embed their textures."
+  ]
+}
