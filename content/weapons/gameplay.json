@@ -1,0 +1,51 @@
+{
+  "schema": "hoot.showcase.gameplay.v1",
+  "source": "src/weapons/defs.ts in original main 6366474; frozen plan contracts",
+  "changes": [
+    "Sprint to fire release delay .12 seconds is new to the showcase.",
+    "Training target health 72 is a new showcase rule."
+  ],
+  "weapons": {
+    "ak": {
+      "id": "ak",
+      "magazine": 30,
+      "reserve": 90,
+      "fireInterval": 0.1,
+      "reloadSeconds": 1.8,
+      "drawSeconds": 0.45,
+      "holsterSeconds": 0.12,
+      "damage": 36,
+      "range": 150,
+      "spread": {
+        "base": 0.004,
+        "move": 0.06,
+        "air": 0.12
+      },
+      "maxSpeed": 5.46,
+      "adsFov": 55,
+      "adsSpreadMultiplier": 0.35,
+      "sprintToFireSeconds": 0.12
+    },
+    "pistol": {
+      "id": "pistol",
+      "magazine": 100,
+      "reserve": 300,
+      "fireInterval": 0.15,
+      "autoInterval": 0.05,
+      "reloadSeconds": 1.2,
+      "drawSeconds": 0.3,
+      "holsterSeconds": 0.12,
+      "damage": 28,
+      "range": 120,
+      "spread": {
+        "base": 0.006,
+        "move": 0.035,
+        "air": 0.08
+      },
+      "maxSpeed": 6.1,
+      "adsFov": 60,
+      "adsSpreadMultiplier": 0.4,
+      "sprintToFireSeconds": 0.12
+    }
+  }
+}

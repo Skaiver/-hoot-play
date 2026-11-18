@@ -1,0 +1,79 @@
+{
+  "schema": "hoot.showcase.drum.v1",
+  "weaponRevision": "djmaesen-pistol-v1",
+  "modelSHA256": "2c2ee9d6132bed66185df3c926e326518f580836feb6f535b836e93b6b7b132b",
+  "units": "meters",
+  "attachment": {
+    "capacity": 100,
+    "carrier": "clip",
+    "rootContact": [
+      -0.055,
+      -0.091,
+      0
+    ],
+    "rootMount": [
+      -7.140724107498886e-09,
+      -0.050861847147279635,
+      -0.008015268043436108
+    ],
+    "relativeMatrix": [
+      -124.99999237060547,
+      -3.7841550692974124e-06,
+      -1.025173332891427e-05,
+      0,
+      -5.5618958196652565e-14,
+      117.26618194580078,
+      -43.28569030761719,
+      0,
+      1.0927845323749352e-05,
+      -43.28569030761719,
+      -117.26618194580078,
+      0,
+      -2.4407231080658676e-07,
+      -6.951010227203369,
+      2.3118374347686768,
+      1
+    ],
+    "originalMagazineBounds": {
+      "min": [
+        -0.012417839809344846,
+        -0.06286184714727963,
+        -0.049645460988018336
+      ],
+      "max": [
+        0.012417825527896631,
+        0.07837866032500607,
+        0.03361492490114612
+      ]
+    },
+    "visibleOriginalMeshes": 0
+  },
+  "emptySlideReference": {
+    "clip": "fire",
+    "progress": 0.5
+  },
+  "contactReview": {
+    "method": "Left palm joint to side-cover contact marker; joint distance includes the palm/finger grip offset, not surface penetration.",
+    "sourceContactRange": {
+      "reload_empty": [
+        0.08,
+        0.58
+      ],
+      "reload_tactical": [
+        0.09,
+        0.65
+      ]
+    },
+    "observedGripInterval": {
+      "reload_empty": [
+        0.2,
+        0.58
+      ],
+      "reload_tactical": [
+        0.22,
+        0.75
+      ]
+    },
+    "note": "Own profile retimes contact starts to .20/.22 and narrows contact ranges to observed grip. Source GLB tracks stay unchanged. Left palm joint distances include the palm/finger offset. Phase 05 retains artistic grip polish; no global bone correction is applied."
+  }
+}

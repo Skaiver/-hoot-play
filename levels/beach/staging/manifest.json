@@ -1,0 +1,545 @@
+{
+  "schemaVersion": 1,
+  "levelId": "beach",
+  "assetVersion": "1",
+  "source": {
+    "blenderVersion": "5.2.2 LTS",
+    "sha256": "f67074d14499de5de4029c4f45bb1e21069c94fd3b7c6f6e0b9092ba6b259e5a",
+    "exporterVersion": "1",
+    "exporterSha256": "2de3adf1ce9585b7badbeca3e30178133a9bf410eafb8835f041cdc1bdf34e1b"
+  },
+  "chunks": [
+    {
+      "id": "beach.world.0",
+      "url": "world-00.glb",
+      "sha256": "29b511b045c3fe3b70bab3b59e53765528ef0fe73ea10277d2e4752f0624a63d",
+      "bytes": 5471852,
+      "role": "architecture",
+      "bounds": {
+        "min": [
+          -85.5,
+          -0.6000000238418579,
+          -50.0
+        ],
+        "max": [
+          96.5,
+          19.0,
+          170.0
+        ]
+      }
+    },
+    {
+      "id": "beach.world.1",
+      "url": "world-01.glb",
+      "sha256": "e65787f4613d1887d432d67aeb86b560542633caa9237b97d15013ae47a7d7fa",
+      "bytes": 2030964,
+      "role": "background",
+      "bounds": {
+        "min": [
+          -181.0,
+          -27.49640655517578,
+          -176.0
+        ],
+        "max": [
+          181.0,
+          24.200000762939453,
+          113.1500015258789
+        ]
+      }
+    }
+  ],
+  "textures": [
+    {
+      "url": "texture-c638826c4a3a00f5a3f27dd36025c6d72c42cfd83c1f8a792824af55f7239f5d.png",
+      "sha256": "c638826c4a3a00f5a3f27dd36025c6d72c42cfd83c1f8a792824af55f7239f5d",
+      "bytes": 22922
+    },
+    {
+      "url": "texture-69e54a8d380217ceb6e8de5ef086886a2f1ff066cdb770ba399b2d5fdcf0807a.png",
+      "sha256": "69e54a8d380217ceb6e8de5ef086886a2f1ff066cdb770ba399b2d5fdcf0807a",
+      "bytes": 11335
+    },
+    {
+      "url": "texture-f9573645035919832e39389e6a7e0bf6ae97f38b6a72124131c34ef304ce2521.png",
+      "sha256": "f9573645035919832e39389e6a7e0bf6ae97f38b6a72124131c34ef304ce2521",
+      "bytes": 670
+    },
+    {
+      "url": "texture-fc4d67dd3e3d8023e38ecdd65c36907768f7b4f315c01bb40a04e1eaa7d12c9b.png",
+      "sha256": "fc4d67dd3e3d8023e38ecdd65c36907768f7b4f315c01bb40a04e1eaa7d12c9b",
+      "bytes": 763292
+    },
+    {
+      "url": "texture-6416da8816abe115ed27a71d8e6918c35e9bf2bc40acb8d1b583c9c17e7d64fa.png",
+      "sha256": "6416da8816abe115ed27a71d8e6918c35e9bf2bc40acb8d1b583c9c17e7d64fa",
+      "bytes": 321202
+    },
+    {
+      "url": "texture-a821385cd76884733f6edba192d7bd84acacb7558b223e4a88911ce561173d6a.png",
+      "sha256": "a821385cd76884733f6edba192d7bd84acacb7558b223e4a88911ce561173d6a",
+      "bytes": 261467
+    },
+    {
+      "url": "texture-b56908f5a149eaf3f2976528244d6a655a7ceb59dd61255f5717669169972b70.png",
+      "sha256": "b56908f5a149eaf3f2976528244d6a655a7ceb59dd61255f5717669169972b70",
+      "bytes": 443639
+    },
+    {
+      "url": "texture-710e7cb5ace1e62ef0c7d0d6cf18275d86480023d9de4ebb380b474d119a0531.png",
+      "sha256": "710e7cb5ace1e62ef0c7d0d6cf18275d86480023d9de4ebb380b474d119a0531",
+      "bytes": 296406
+    },
+    {
+      "url": "texture-de5e36b9d910415986b40f80320f6a19c157febef2ac5eaa8043e77b742530a6.png",
+      "sha256": "de5e36b9d910415986b40f80320f6a19c157febef2ac5eaa8043e77b742530a6",
+      "bytes": 232274
+    },
+    {
+      "url": "texture-29c06620ce49c27e2bf26ed9bb4bedcf02e762d5988deb38f26e111cc68483ac.png",
+      "sha256": "29c06620ce49c27e2bf26ed9bb4bedcf02e762d5988deb38f26e111cc68483ac",
+      "bytes": 13977
+    },
+    {
+      "url": "texture-322f9d7599f8cd51572502e7abcf693cb75b1cee2561f46fa80f30f59f7b6032.png",
+      "sha256": "322f9d7599f8cd51572502e7abcf693cb75b1cee2561f46fa80f30f59f7b6032",
+      "bytes": 57337
+    },
+    {
+      "url": "texture-2db848538b4f61095c1e9861fd338181ae949964a577b7aa5057962c385e112c.png",
+      "sha256": "2db848538b4f61095c1e9861fd338181ae949964a577b7aa5057962c385e112c",
+      "bytes": 74393
+    },
+    {
+      "url": "texture-c4eaf7f6c4bece575f7aea5a97995af6f4e8b9aa99b412cd3c9d3dd402420451.png",
+      "sha256": "c4eaf7f6c4bece575f7aea5a97995af6f4e8b9aa99b412cd3c9d3dd402420451",
+      "bytes": 241568
+    },
+    {
+      "url": "texture-ec17ec756acdc0af0b6d124d0a5df9a15bbf0c3d191598aed9e40ae979cb8f47.png",
+      "sha256": "ec17ec756acdc0af0b6d124d0a5df9a15bbf0c3d191598aed9e40ae979cb8f47",
+      "bytes": 1261731
+    },
+    {
+      "url": "texture-aae81158b168d64acc044f30187e4fb2745780723d7c66f27d384150f146b8a2.png",
+      "sha256": "aae81158b168d64acc044f30187e4fb2745780723d7c66f27d384150f146b8a2",
+      "bytes": 490844
+    },
+    {
+      "url": "texture-59da86023dda70b84f6a22f9ab5de45d854de9a1dca2fd72f63a9c5baa472014.png",
+      "sha256": "59da86023dda70b84f6a22f9ab5de45d854de9a1dca2fd72f63a9c5baa472014",
+      "bytes": 169153
+    },
+    {
+      "url": "texture-59437326926ae6b49815b053872661fc18f5d155293b72ad5b0ac23643be43b7.png",
+      "sha256": "59437326926ae6b49815b053872661fc18f5d155293b72ad5b0ac23643be43b7",
+      "bytes": 241203
+    },
+    {
+      "url": "texture-7cd86790d10bc4ffaa4efd6aaab7d1eac446373fd686ca4ad4070b81a6f03621.png",
+      "sha256": "7cd86790d10bc4ffaa4efd6aaab7d1eac446373fd686ca4ad4070b81a6f03621",
+      "bytes": 339879
+    },
+    {
+      "url": "texture-0d8df7146ca8ff89c119b91e944e72f915b5523063e88332207f3408b6632ca1.png",
+      "sha256": "0d8df7146ca8ff89c119b91e944e72f915b5523063e88332207f3408b6632ca1",
+      "bytes": 124607
+    },
+    {
+      "url": "texture-e022082fa42480950c9538ae3716e4a2c2be48c500912764ee2fc719cb7504ed.png",
+      "sha256": "e022082fa42480950c9538ae3716e4a2c2be48c500912764ee2fc719cb7504ed",
+      "bytes": 237797
+    },
+    {
+      "url": "texture-8fa9f2ada6201cdc3d6c30e8c309199606541f2f21f384b6442a847d179509cf.png",
+      "sha256": "8fa9f2ada6201cdc3d6c30e8c309199606541f2f21f384b6442a847d179509cf",
+      "bytes": 395643
+    },
+    {
+      "url": "texture-30912e43fcf72ae8bc4b21ae09a35730b9fa7be353af7aeea9201724c306d546.png",
+      "sha256": "30912e43fcf72ae8bc4b21ae09a35730b9fa7be353af7aeea9201724c306d546",
+      "bytes": 153602
+    },
+    {
+      "url": "texture-ba5db460cc34ad7c3d0aed45ba1bec0e387e01eab765df059f625d937bee640c.png",
+      "sha256": "ba5db460cc34ad7c3d0aed45ba1bec0e387e01eab765df059f625d937bee640c",
+      "bytes": 240733
+    },
+    {
+      "url": "texture-b5fd5e1b5a9edc9c61be94ff24816fc2e2001aa4112452ddcbf2a2f005f431a8.png",
+      "sha256": "b5fd5e1b5a9edc9c61be94ff24816fc2e2001aa4112452ddcbf2a2f005f431a8",
+      "bytes": 156084
+    },
+    {
+      "url": "texture-aeacd7887046b5e77c64dcd7b39e89a3856a4802397f1edac0399b7cdcd3770c.png",
+      "sha256": "aeacd7887046b5e77c64dcd7b39e89a3856a4802397f1edac0399b7cdcd3770c",
+      "bytes": 68004
+    },
+    {
+      "url": "texture-ef8a9dd3b711a909f8577003d18648897d6a264f6f6f1ab62a52d3386c9cb1cc.png",
+      "sha256": "ef8a9dd3b711a909f8577003d18648897d6a264f6f6f1ab62a52d3386c9cb1cc",
+      "bytes": 84820
+    },
+    {
+      "url": "texture-f1a23b70e467c750ef056cff50b5b4a28ad0a06f077b99156c52a59e26813f0d.png",
+      "sha256": "f1a23b70e467c750ef056cff50b5b4a28ad0a06f077b99156c52a59e26813f0d",
+      "bytes": 158004
+    },
+    {
+      "url": "texture-e134987cf9951d1034e70c23bd88ddf52e020d2f498743e2aa408c81f37b2af9.png",
+      "sha256": "e134987cf9951d1034e70c23bd88ddf52e020d2f498743e2aa408c81f37b2af9",
+      "bytes": 56276
+    },
+    {
+      "url": "texture-6c9bea266c3e321d09140707e7fe1a30e107108d76e91317f6ea76e3ca1e2925.png",
+      "sha256": "6c9bea266c3e321d09140707e7fe1a30e107108d76e91317f6ea76e3ca1e2925",
+      "bytes": 83772
+    },
+    {
+      "url": "texture-2745ae287d020b56866ff4e01cda9faae9ca1e9db677589dd0718432c18cb24f.png",
+      "sha256": "2745ae287d020b56866ff4e01cda9faae9ca1e9db677589dd0718432c18cb24f",
+      "bytes": 261465
+    },
+    {
+      "url": "texture-5b7d7a9f8e3fe2952bc00991fe5c81aea44c0280ffae59afd65facf4eb89d1a3.png",
+      "sha256": "5b7d7a9f8e3fe2952bc00991fe5c81aea44c0280ffae59afd65facf4eb89d1a3",
+      "bytes": 30340
+    },
+    {
+      "url": "texture-8dbb3124a587a7d29fef78677e6594187c212fab66da277ee9f9b11a1421e435.png",
+      "sha256": "8dbb3124a587a7d29fef78677e6594187c212fab66da277ee9f9b11a1421e435",
+      "bytes": 26220
+    },
+    {
+      "url": "texture-36eb8eff95a5a997c9175344287cd983131cb4c3d34392663b58e583eeacade0.png",
+      "sha256": "36eb8eff95a5a997c9175344287cd983131cb4c3d34392663b58e583eeacade0",
+      "bytes": 22368
+    },
+    {
+      "url": "texture-233d431887ed42c5fedcc1be8bef847b91f98c0d449b690810df7c09aa761d50.png",
+      "sha256": "233d431887ed42c5fedcc1be8bef847b91f98c0d449b690810df7c09aa761d50",
+      "bytes": 27216
+    },
+    {
+      "url": "texture-c4d358d30a7c13fc4616a4b94d3db7a9562e87cf0158006cbebbe2a05633a131.png",
+      "sha256": "c4d358d30a7c13fc4616a4b94d3db7a9562e87cf0158006cbebbe2a05633a131",
+      "bytes": 24072
+    },
+    {
+      "url": "texture-40b4c340cbc4f897addbb16c116cdea134db1025db0ee962f9f4967543025de7.png",
+      "sha256": "40b4c340cbc4f897addbb16c116cdea134db1025db0ee962f9f4967543025de7",
+      "bytes": 23348
+    },
+    {
+      "url": "texture-ed472cb05ad4cd2bb80f7b9b4a78a5bfd910274fb2f74daa10d57ae2755a0f28.png",
+      "sha256": "ed472cb05ad4cd2bb80f7b9b4a78a5bfd910274fb2f74daa10d57ae2755a0f28",
+      "bytes": 27324
+    },
+    {
+      "url": "texture-84ef2acce3b41f83902553971cb098d4d969abaa0e83d9d4ae9275b825cf0edd.png",
+      "sha256": "84ef2acce3b41f83902553971cb098d4d969abaa0e83d9d4ae9275b825cf0edd",
+      "bytes": 23960
+    },
+    {
+      "url": "texture-724330336876f6278dc79350d49141537695401115bfe86ac4b3562fab4c83e9.png",
+      "sha256": "724330336876f6278dc79350d49141537695401115bfe86ac4b3562fab4c83e9",
+      "bytes": 29880
+    },
+    {
+      "url": "texture-f7d6768a39bacaf61b10690c224b8d454a12e7375bd10538a10a8fa9e2362f6b.png",
+      "sha256": "f7d6768a39bacaf61b10690c224b8d454a12e7375bd10538a10a8fa9e2362f6b",
+      "bytes": 30480
+    },
+    {
+      "url": "texture-59f24344f978590191ac00a2d379352db3ba32d8f57b3375675967d0be5e8333.png",
+      "sha256": "59f24344f978590191ac00a2d379352db3ba32d8f57b3375675967d0be5e8333",
+      "bytes": 11072
+    },
+    {
+      "url": "texture-ace73d6693fd9a5a4c4620ddeed35f53dccd773f852d7669f0622a7e3bfad3dc.png",
+      "sha256": "ace73d6693fd9a5a4c4620ddeed35f53dccd773f852d7669f0622a7e3bfad3dc",
+      "bytes": 11784
+    },
+    {
+      "url": "texture-1dda8604adc5ce0faad68d2846bf325510835de77605b2080a55fcc6e97c001c.png",
+      "sha256": "1dda8604adc5ce0faad68d2846bf325510835de77605b2080a55fcc6e97c001c",
+      "bytes": 11668
+    },
+    {
+      "url": "texture-9f2c4cc61f0322715162d1803f8acfab62fe6cb398b97569e5126850297fc386.png",
+      "sha256": "9f2c4cc61f0322715162d1803f8acfab62fe6cb398b97569e5126850297fc386",
+      "bytes": 11500
+    },
+    {
+      "url": "texture-bf452fea0fa6b169f42effb4407937c7d175a46cde5a1de937a95e71b7530637.png",
+      "sha256": "bf452fea0fa6b169f42effb4407937c7d175a46cde5a1de937a95e71b7530637",
+      "bytes": 13604
+    },
+    {
+      "url": "texture-6532f5842665fbcbf039bfcdeb9646e9b542cff17ec8b5615cdf66df049cabae.png",
+      "sha256": "6532f5842665fbcbf039bfcdeb9646e9b542cff17ec8b5615cdf66df049cabae",
+      "bytes": 39408
+    },
+    {
+      "url": "texture-02b88dbad749a9824293f6a05b6d46724b04db2c9614838405da13a7fdb41587.png",
+      "sha256": "02b88dbad749a9824293f6a05b6d46724b04db2c9614838405da13a7fdb41587",
+      "bytes": 5805
+    },
+    {
+      "url": "texture-45ff044d643ba91a19770abf8d2ce4e68a5378bb384276981cf5cafb5f95a23c.png",
+      "sha256": "45ff044d643ba91a19770abf8d2ce4e68a5378bb384276981cf5cafb5f95a23c",
+      "bytes": 5806
+    },
+    {
+      "url": "texture-cbc28c995b46a8f2b4add06dee33564d9ed0a0b129045c801dc711d2dc764e79.png",
+      "sha256": "cbc28c995b46a8f2b4add06dee33564d9ed0a0b129045c801dc711d2dc764e79",
+      "bytes": 60896
+    },
+    {
+      "url": "texture-aa5d20b4f5fcc202a0c5408f9778432eb01d18aedb706885cb1e18c15bd663df.png",
+      "sha256": "aa5d20b4f5fcc202a0c5408f9778432eb01d18aedb706885cb1e18c15bd663df",
+      "bytes": 1579914
+    },
+    {
+      "url": "texture-3383d33f4b75ada328dea61d4ccf37610143ec80efaca24a37290b1d6aad0096.png",
+      "sha256": "3383d33f4b75ada328dea61d4ccf37610143ec80efaca24a37290b1d6aad0096",
+      "bytes": 1508013
+    },
+    {
+      "url": "texture-5f6ea136cce46480fc6be6f0c8086c3754060872de9db0dbcbaf34cd63f719ed.png",
+      "sha256": "5f6ea136cce46480fc6be6f0c8086c3754060872de9db0dbcbaf34cd63f719ed",
+      "bytes": 985672
+    }
+  ],
+  "decoder": "none",
+  "gameplay": {
+    "url": "gameplay.json",
+    "sha256": "b8f41528b8c5ba66ddb5f660a2d4f5231eca1c4250ba7b4ab58a34688d6f1df9",
+    "bytes": 5865
+  },
+  "collision": {
+    "url": "collision.json",
+    "sha256": "6a13d8a1985efd1eff0578947eb5c78ed26856e1a43a210860b978113c8c0deb",
+    "bytes": 36296
+  },
+  "visualProfile": {
+    "exposure": 1.1,
+    "bloom": [
+      0.28,
+      0.32,
+      1.1
+    ],
+    "saturation": 0.97,
+    "tint": [
+      1.02,
+      1,
+      0.98
+    ],
+    "reflectionRegions": [
+      {
+        "id": "beach.effect_markers.01468",
+        "position": [
+          0.0,
+          3.0,
+          3.0
+        ],
+        "min": [
+          -38,
+          -1,
+          -30
+        ],
+        "max": [
+          38,
+          9,
+          44
+        ]
+      }
+    ],
+    "lights": [
+      {
+        "position": [
+          -24.0,
+          4.0,
+          -2.0
+        ],
+        "color": [
+          1.0,
+          0.6499999761581421,
+          0.30000001192092896
+        ],
+        "intensity": 70,
+        "distance": 15
+      },
+      {
+        "position": [
+          24.0,
+          4.0,
+          -2.0
+        ],
+        "color": [
+          1.0,
+          0.6499999761581421,
+          0.30000001192092896
+        ],
+        "intensity": 70,
+        "distance": 15
+      },
+      {
+        "position": [
+          -45.0,
+          3.1000001430511475,
+          -6.0
+        ],
+        "color": [
+          1.0,
+          0.6800000071525574,
+          0.38999998569488525
+        ],
+        "intensity": 24,
+        "distance": 7
+      },
+      {
+        "position": [
+          45.0,
+          3.1000001430511475,
+          -6.0
+        ],
+        "color": [
+          1.0,
+          0.6800000071525574,
+          0.38999998569488525
+        ],
+        "intensity": 24,
+        "distance": 7
+      }
+    ],
+    "acousticZones": [
+      {
+        "id": "beach.acoustics.roofed-outpost.0",
+        "min": [
+          -31.0,
+          0.0,
+          -8.5
+        ],
+        "max": [
+          -17.0,
+          3.299999952316284,
+          4.5
+        ],
+        "wet": 0.12,
+        "fade": 1.25
+      },
+      {
+        "id": "beach.acoustics.roofed-outpost.1",
+        "min": [
+          17.0,
+          0.0,
+          -8.5
+        ],
+        "max": [
+          31.0,
+          3.299999952316284,
+          4.5
+        ],
+        "wet": 0.12,
+        "fade": 1.25
+      }
+    ],
+    "ambientEmitters": [
+      {
+        "id": "beach.ambience.surf",
+        "position": [
+          0.0,
+          0.0,
+          -42.0
+        ],
+        "family": "surf",
+        "gain": 0.075,
+        "distance": 65
+      },
+      {
+        "id": "beach.ambience.foliage",
+        "position": [
+          -34.0,
+          3.0,
+          12.0
+        ],
+        "family": "foliage",
+        "gain": 0.035,
+        "distance": 28
+      },
+      {
+        "id": "beach.ambience.electrical",
+        "position": [
+          -24.0,
+          2.0,
+          -2.0
+        ],
+        "family": "electrical",
+        "gain": 0.025,
+        "distance": 14
+      }
+    ]
+  },
+  "reviewViews": [
+    {
+      "id": "beach.spawn",
+      "position": [
+        0.0,
+        1.6299999713897706,
+        -27.0
+      ],
+      "lookAt": [
+        -1.2246468525851679e-15,
+        1.6299999713897706,
+        -17.0
+      ],
+      "fov": 75
+    },
+    {
+      "id": "beach.review.0",
+      "position": [
+        0.0,
+        3.0,
+        -24.0
+      ],
+      "lookAt": [
+        8.938605589037252e-07,
+        2.772786796092987,
+        -14.002581477165222
+      ],
+      "fov": 70
+    },
+    {
+      "id": "beach.review.1",
+      "position": [
+        0.0,
+        3.0,
+        36.0
+      ],
+      "lookAt": [
+        8.918794947021524e-07,
+        2.79596346616745,
+        45.997918009757996
+      ],
+      "fov": 70
+    },
+    {
+      "id": "beach.review.2",
+      "position": [
+        -26.0,
+        5.0,
+        27.0
+      ],
+      "lookAt": [
+        -20.74613308906555,
+        4.393784701824188,
+        18.51298701763153
+      ],
+      "fov": 70
+    }
+  ],
+  "statistics": {
+    "objects": 1103,
+    "stableIds": 2089
+  }
+}

@@ -1,0 +1,1 @@
+function i(){return typeof window<"u"}function o(){return typeof navigator<"u"}function u(){return typeof document<"u"}function a(n){let t="",e=n.firstChild;for(;e;)e.nodeType===3&&(t+=e.textContent),e=e.nextSibling;return t}export{a as G,u as I,i as a,o as b};
