@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "levelId": "meadow",
+  "assetVersion": "1",
+  "source": {
+    "blenderVersion": "5.2.2 LTS",
+    "sha256": "7b9113f15f15584afdd64f83d0ee8ce6d8ba0397c46d3dce346ada959da84803",
+    "exporterVersion": "1",
+    "exporterSha256": "2de3adf1ce9585b7badbeca3e30178133a9bf410eafb8835f041cdc1bdf34e1b"
+  },
+  "chunks": [
+    {
+      "id": "meadow.world.0",
+      "url": "world-00.glb",
+      "sha256": "eeb0dc6710e60748b463a38fb27ea6e65e02ff2c0246d867ad9faaea07fbcd77",
+      "bytes": 3045228,
+      "role": "architecture",
+      "bounds": {
+        "min": [
+          -50.25,
+          -0.9150555729866028,
+          -50.25000762939453
+        ],
+        "max": [
+          50.25,
+          7.63173246383667,
+          50.25000762939453
+        ]
+      }
+    },
+    {
+      "id": "meadow.world.1",
+      "url": "world-01.glb",
+      "sha256": "bdd91a7c15fce1cd1de967b375cb1faadf6f44e84ba67e36cd33b5c5e44f3e59",
+      "bytes": 1173956,
+      "role": "background",
+      "bounds": {
+        "min": [
+          -130.0,
+          -21.398466110229492,
+          -130.0
+        ],
+        "max": [
+          130.0,
+          16.3716983795166,
+          130.0
+        ]
+      }
+    }
+  ],
+  "textures": [
+    {
+      "url": "texture-d4d3653718e3d4446c19841203b45b9af6af97d368addb177e7a2835a9c008d4.png",
+      "sha256": "d4d3653718e3d4446c19841203b45b9af6af97d368addb177e7a2835a9c008d4",
+      "bytes": 22892
+    },
+    {
+      "url": "texture-8a152238672b51fed91d83d098df4bf4d05e02075ee0d0e1514c0c6e0a60cb95.png",
+      "sha256": "8a152238672b51fed91d83d098df4bf4d05e02075ee0d0e1514c0c6e0a60cb95",
+      "bytes": 15753
+    },
+    {
+      "url": "texture-f9573645035919832e39389e6a7e0bf6ae97f38b6a72124131c34ef304ce2521.png",
+      "sha256": "f9573645035919832e39389e6a7e0bf6ae97f38b6a72124131c34ef304ce2521",
+      "bytes": 670
+    },
+    {
+      "url": "texture-537d955efef35fbb7d1378fce3d45698f332438ecd9f7678888d3a78bc67b659.png",
+      "sha256": "537d955efef35fbb7d1378fce3d45698f332438ecd9f7678888d3a78bc67b659",
+      "bytes": 22961
+    },
+    {
+      "url": "texture-cc97da40631b3f7ac1d8a38bbafab1ca90d1a1248c0e4dbffecba94b848799b3.png",
+      "sha256": "cc97da40631b3f7ac1d8a38bbafab1ca90d1a1248c0e4dbffecba94b848799b3",
+      "bytes": 15429
+    },
+    {
+      "url": "texture-b56908f5a149eaf3f2976528244d6a655a7ceb59dd61255f5717669169972b70.png",
+      "sha256": "b56908f5a149eaf3f2976528244d6a655a7ceb59dd61255f5717669169972b70",
+      "bytes": 443639
+    },
+    {
+      "url": "texture-710e7cb5ace1e62ef0c7d0d6cf18275d86480023d9de4ebb380b474d119a0531.png",
+      "sha256": "710e7cb5ace1e62ef0c7d0d6cf18275d86480023d9de4ebb380b474d119a0531",
+      "bytes": 296406
+    },
+    {
+      "url": "texture-de5e36b9d910415986b40f80320f6a19c157febef2ac5eaa8043e77b742530a6.png",
+      "sha256": "de5e36b9d910415986b40f80320f6a19c157febef2ac5eaa8043e77b742530a6",
+      "bytes": 232274
+    },
+    {
+      "url": "texture-b869a5c3bd800fd40f767f213e8e6846b66e2a590d35dab5de2fcea1dc8d392d.png",
+      "sha256": "b869a5c3bd800fd40f767f213e8e6846b66e2a590d35dab5de2fcea1dc8d392d",
+      "bytes": 336192
+    },
+    {
+      "url": "texture-fc2a4a4bd02dce8891ee492ee404982c4a28b7b268293b276394ed66664aaf16.png",
+      "sha256": "fc2a4a4bd02dce8891ee492ee404982c4a28b7b268293b276394ed66664aaf16",
+      "bytes": 2444113
+    },
+    {
+      "url": "texture-875058529b86876ed6daea223619c4aaab5efd9891b70d23dc5241c8c9f5f21d.png",
+      "sha256": "875058529b86876ed6daea223619c4aaab5efd9891b70d23dc5241c8c9f5f21d",
+      "bytes": 1704771
+    },
+    {
+      "url": "texture-3db5cd4851f223aaf674889b19012551a58d57ea27a60988464c0fa8142703a3.png",
+      "sha256": "3db5cd4851f223aaf674889b19012551a58d57ea27a60988464c0fa8142703a3",
+      "bytes": 1100519
+    },
+    {
+      "url": "texture-4afa92aea96a6401d2e6de7ca1adf60c77ab2669485d3ea2271216e539d02b6e.png",
+      "sha256": "4afa92aea96a6401d2e6de7ca1adf60c77ab2669485d3ea2271216e539d02b6e",
+      "bytes": 152968
+    },
+    {
+      "url": "texture-589e1a973a2b088ec4988d640c105e017ba0e8cd8d092d505d52c1bdf354dd3c.png",
+      "sha256": "589e1a973a2b088ec4988d640c105e017ba0e8cd8d092d505d52c1bdf354dd3c",
+      "bytes": 71296
+    },
+    {
+      "url": "texture-9c1fed9b40326d64a1bf4e7b51498955219c2f83114fa8ad89438146f2f081dc.png",
+      "sha256": "9c1fed9b40326d64a1bf4e7b51498955219c2f83114fa8ad89438146f2f081dc",
+      "bytes": 104824
+    },
+    {
+      "url": "texture-cb045931bca8fba0dbc28a99966cb921f78686d2707b168813cf96a5ae8662ec.png",
+      "sha256": "cb045931bca8fba0dbc28a99966cb921f78686d2707b168813cf96a5ae8662ec",
+      "bytes": 155104
+    },
+    {
+      "url": "texture-87e46b2d64272c7e064d1553d4b54d5966098428da38ad9362f7b9e4015155cd.png",
+      "sha256": "87e46b2d64272c7e064d1553d4b54d5966098428da38ad9362f7b9e4015155cd",
+      "bytes": 63344
+    },
+    {
+      "url": "texture-c19607930c72edfd640640bbba5be235dd4283e719576e7c817472eb119308a1.png",
+      "sha256": "c19607930c72edfd640640bbba5be235dd4283e719576e7c817472eb119308a1",
+      "bytes": 84696
+    }
+  ],
+  "decoder": "none",
+  "gameplay": {
+    "url": "gameplay.json",
+    "sha256": "c60f56069293b07ed95fd8477c1249ff6beeccab596cbbbe0d7ca9c9db121549",
+    "bytes": 1029
+  },
+  "collision": {
+    "url": "collision.json",
+    "sha256": "14d5c41e9aa4b1be1427b4bd260836164b8429a104060da08e3f820568fb44e8",
+    "bytes": 53684
+  },
+  "visualProfile": {
+    "exposure": 1.08,
+    "bloom": [
+      0.35,
+      0.32,
+      1.1
+    ],
+    "saturation": 1,
+    "tint": [
+      1,
+      1,
+      0.99
+    ],
+    "reflectionRegions": [],
+    "lights": [
+      {
+        "position": [
+          0.0,
+          6.900000095367432,
+          -54.0
+        ],
+        "color": [
+          1.0,
+          0.6800000071525574,
+          0.38999998569488525
+        ],
+        "intensity": 24,
+        "distance": 7
+      }
+    ],
+    "acousticZones": [],
+    "ambientEmitters": []
+  },
+  "reviewViews": [
+    {
+      "id": "meadow.spawn",
+      "position": [
+        30.0,
+        1.6,
+        5.0
+      ],
+      "lookAt": [
+        34.27379906177521,
+        1.6,
+        14.040722250938416
+      ],
+      "fov": 75
+    },
+    {
+      "id": "meadow.review.0",
+      "position": [
+        -20.0,
+        5.0,
+        20.0
+      ],
+      "lookAt": [
+        -12.960151433944702,
+        4.061353504657745,
+        12.960150837898254
+      ],
+      "fov": 70
+    },
+    {
+      "id": "meadow.review.1",
+      "position": [
+        20.0,
+        4.0,
+        -20.0
+      ],
+      "lookAt": [
+        12.94654369354248,
+        3.2946534603834152,
+        -12.94654369354248
+      ],
+      "fov": 70
+    },
+    {
+      "id": "meadow.review.2",
+      "position": [
+        0.0,
+        8.0,
+        35.0
+      ],
+      "lookAt": [
+        0.0,
+        7.145989120006561,
+        25.03653347492218
+      ],
+      "fov": 70
+    }
+  ],
+  "statistics": {
+    "objects": 3713,
+    "stableIds": 3998
+  },
+  "buildingCollision": {
+    "url": "building-collision.json",
+    "bytes": 1465,
+    "sha256": "85cf22c69681fbb66fcf977ed52a1fd059a8e88fb6993095b728b969742de67a"
+  }
+}

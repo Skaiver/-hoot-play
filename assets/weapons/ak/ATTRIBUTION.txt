@@ -1,5 +1,0 @@
-fps AK animated — DJMaesen (bumstrum)
-https://sketchfab.com/3d-models/fps-ak-animated-b0b1bae40337449189483f6187cf7af7
-Creative Commons Attribution 4.0 International
-https://creativecommons.org/licenses/by/4.0/
-Adapted for $hoot: scale/axes, sockets, split/baked actions, texture resizing and world LODs.

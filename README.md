@@ -1,9 +1,5 @@
-# $hoot — Play
+# $hoot
 
-Browser game: https://skaiver.github.io/-hoot-play/
+Play at https://skaiver.github.io/-hoot-play/.
 
-Desktop controls: Enter to start, WASD to move, mouse to look, Shift to sprint,
-Space to jump, left click to fire, right click to aim, R to reload, Escape to pause.
-
-This repository contains only the built game files. Asset credits are included
-in credits.txt and the runtime asset folders. Their respective licenses apply.
+This release contains the browser build of the Three.js main game (source revision 6366474). Select a level and Start Game for solo play. LAN relay hosting requires a separate server.

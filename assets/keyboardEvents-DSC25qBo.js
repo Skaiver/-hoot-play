@@ -1,1 +1,0 @@
-class t{}t.KEYDOWN=1;t.KEYUP=2;class a{constructor(s,e){this.type=s,this.event=e}}class b extends a{get skipOnPointerObservable(){return this.skipOnKeyboardObservable}set skipOnPointerObservable(s){this.skipOnKeyboardObservable=s}constructor(s,e){super(s,e),this.type=s,this.event=e,this.skipOnKeyboardObservable=!1}}export{t as K,b as a,a as b};
